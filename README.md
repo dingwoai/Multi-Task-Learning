@@ -4,11 +4,21 @@
 And it's updating...
 
 ------
+## Table of Contents:
+- [Papers](#papers) 
+  - [Survey](#survey)
+  - [Architecture design](#archi)
+  - [Loss function](#loss)
+  - [Task relationship learning](#trl)
+  - [Optimization methods](#optim)
+- [Datasets](#datasets)
+- [Applications](#apps)
+- [Related Areas](#related)
 
-[TOC]
-
+<a name="papers"></a>
 ## Papers
 
+<a name="survey"></a>
 ### Survey
 
 - A Survey on Multi-Task Learning. *arXiv*, jul 2017.
@@ -18,6 +28,7 @@ And it's updating...
 - A Brief Review of Deep Multi-task Learning and Auxiliary Task Learning. arXiv, jul 2020.
 - Multi-task learning with deep neural networks: A survey, 2020.
 
+<a name="archi"></a>
 ### Architecture design
 
 ##### pure hard parameter sharing
@@ -45,6 +56,7 @@ And it's updating...
 - Mtl-nas: Task-agnostic neural architecture search towards general-purpose multi-task learning. In *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2020. [Code](https://github.com/bhpfelix/MTLNAS)
 - Many Task Learning With Task Routing. In*2019IEEE/CVF International Conference on Computer Vision (ICCV)*, pages 1375–1384. IEEE, oct 2019.
 
+<a name="loss"></a>
 ### Loss function
 
 - Multi-task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics. *Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition*, pages 7482–7491, 2018.
@@ -58,12 +70,15 @@ And it's updating...
 - Dynamic Task Weighting Methods for Multi-task Networks in Autonomous Driving Systems. In *2020 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC)*, pages 1–8. IEEE, sep 2020.
 - A Comparison of Loss Weighting Strategies for Multi task Learning in Deep Neural Networks. *IEEE Access*, 7:141627–141632, 2019.
 
+<a name="trl"></a>
 ### Task relationship learning
 
+<a name="optim"></a>
 ### Optimization Methods
 
 Also I need to mention that many MTL approaches utilize not just one category of methods listed above but a combination instead. 
 
+<a name="datasets"></a>
 ## Datasets
 
 Commonly used in computer vision:
@@ -77,6 +92,7 @@ Commonly used in computer vision:
 - [KITTI](www.cvlibs.net/datasets/kitti) is by far the most famous and commonly used dataset for autonomous driving. It provides benchmarks for multiple driving tasks: e.g. stereo matching, optical flow estimation, visual odometry/SLAM, semantic segmentation, object detection/orientation estimation and object tracking.
 - [BDD100K](https://bdd-data.berkeley.edu/) is a recent driving dataset designed for heterogeneous multitask learning. It is comprised of 100K video clips and 10 tasks: image tagging, lane detection, drivable area segmentation, road object detection, semantic segmentation, instance segmentation, multi-object detection tracking, multi-object segmentation tracking, domain adaptation and imitation learning.
 
+<a name="apps"></a>
 ## Applications
 
 #### Natural language processing
@@ -94,7 +110,7 @@ Commonly used in computer vision:
 - Towards General Purpose Vision Systems, https://arxiv.org/pdf/2104.00743.pdf
 
 
-
+<a name="related"></a>
 ## Related Areas
 
 - Transfer Learning
