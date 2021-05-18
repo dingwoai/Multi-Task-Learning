@@ -25,6 +25,8 @@ And it's updating...
 <a name="survey"></a>
 ### Survey
 
+- [1997] Caruana, R. Multitask Learning. *Machine Learning* **28,** 41–75 (1997). https://doi.org/10.1023/A:1007379606734.
+- http://www.siam.org/meetings/sdm12/zhou_chen_ye.pdf Multi-Task Learning: Theory, Algorithms, and Applications (2012, SDM tutorial)
 - A Survey on Multi-Task Learning. *arXiv*, jul 2017.
 - An Overview of Multi-Task Learning in Deep Neural Networks. *arXiv*, jun 2017.
 - A brief review on multi-task learning. *Multimedia Tools and Applications*, 77(22):29705–29725, nov 2018.
@@ -151,6 +153,8 @@ Commonly used in computer vision:
 
 #### Natural language processing
 
+- [ICML 2008] A unified architecture for natural language processing: deep neural networks with multitask learning, https://dl.acm.org/doi/10.1145/1390156.1390177
+
 - [ICLR 2021] Conditionally Adaptive Multi-Task Learning: Improving Transfer Learning in NLP Using Fewer Parameters & Less Data, https://openreview.net/pdf?id=de11dbHzAMF, [Code](https://github.com/CAMTL/CA-MTL)
 - [ICLR 2021] HyperGrid Transformers: Towards A Single Model for Multiple Tasks, https://openreview.net/forum?id=hiq1rHO8pNT
 - [ICML 2020] XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalisation, http://proceedings.mlr.press/v119/hu20b.html, [Code](https://github.com/google-research/xtreme)
@@ -165,6 +169,7 @@ Commonly used in computer vision:
 
 ##### Autonomous Driving
 
+- [ICML 2019] Multi-task learning in the wildness. https://slideslive.com/38917690/multitask-learning-in-the-wilderness
 - [arXiv 2021] MonoGRNet: A General Framework for Monocular 3D Object Detection, https://arxiv.org/abs/2104.08797
 - [CVPR 2021] Multi-task Learning with Attention for End-to-end Autonomous Driving. *ArXiv**, abs/2104.10753*.
 
@@ -184,7 +189,10 @@ Commonly used in computer vision:
 
 #### Multi-modal
 
-- Towards General Purpose Vision Systems, https://arxiv.org/pdf/2104.00743.pdf
+- [CVPR 2014] https://sites.google.com/site/deeplearningcvpr2014/DL-Multimodal_multitask_learning.pdf Multimodal learning and multitask learning 
+- [arXiv 2020] Multimodal Continuous Emotion Recognition using Deep Multi-Task Learning with Correlation Loss, https://arxiv.org/abs/2011.00876
+
+- [arXiv 2021] Towards General Purpose Vision Systems, https://arxiv.org/pdf/2104.00743.pdf
 - [arXiv 2021] UniT: Multimodal Multitask Learning with a Unified Transformer, https://arxiv.org/abs/2102.10772, [Code](https://mmf.sh/)
 
 
