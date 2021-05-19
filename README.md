@@ -1,5 +1,5 @@
-# Multi-Task-Learning
-**A list of papers, codes and applications on multi-task learning. Comments and contributions are welcomed!**
+# Multi-Task-Deep-Learning
+**A list of papers, codes and applications on multi-task deep learning. Comments and contributions are welcomed!**
 
 And it's updating...
 
