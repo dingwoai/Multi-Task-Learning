@@ -118,7 +118,7 @@ And it's updating...
 - [ICML 2020] Adaptive Adversarial Multi-task Representation Learning, http://proceedings.mlr.press/v119/mao20a.html
 - [2020] Task uncertainty loss reduce negative transfer in asymmetric multi-task feature learning.
 - [AISTATS 2021] High-Dimensional Multi-Task Averaging and Application to Kernel Mean Embedding, http://proceedings.mlr.press/v130/marienwald21a.html
-- [ICLR 2021] Gradient Vaccine: Investigating and Improving Multi-task Optimization in Massively Multilingual Models, https://openreview.net/forum?id=F1vEjWK-lH_
+- [ICLR 2021] Gradient Vaccine: Investigating and Improving Multi-task Optimization in Massively Multilingual Models, [paper](https://openreview.net/forum?id=F1vEjWK-lH_)
 - [ICLR 2021] Towards Impartial Multi-task Learning, https://openreview.net/forum?id=IMPnRXEWpvr
 
 <a name='novel'></a>
@@ -126,6 +126,7 @@ And it's updating...
 ### Novel Settings
 
 - [ICML 2020] Task Understanding from Confusing Multi-task Data, http://proceedings.mlr.press/v119/su20b.html
+- [ECCV 2020] Multitask Learning Strengthens Adversarial Robustness, [paper](https://arxiv.org/abs/2007.07236v2), [Code](https://github.com/columbia/MTRobust)
 - [ICLR 2021] The Traveling Observer Model: Multi-task Learning Through Spatial Variable Embeddings, https://openreview.net/forum?id=qYda4oLEc1
   - a machine learning framework in which seemingly unrelated tasks can be solved by a single model, by embedding their input and output variables into a shared space. 
 
