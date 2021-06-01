@@ -53,6 +53,7 @@ And it's updating...
 - Modeling task relationships in multi-task learning with multi-gate mixture-of-experts. In *Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining*, KDD ’18, page 1930–1939, New York, NY, USA, 2018. Association for Computing Machinery.
 - [ICML 2020] Learning to Branch for Multi-Task Learning, http://proceedings.mlr.press/v119/guo20e.html.
 - [arXiv 2021] UniT: Multimodal Multitask Learning with a Unified Transformer, https://arxiv.org/abs/2102.10772, [Code](https://mmf.sh/)
+- [arXiv 2021] You Only Learn One Representation: Unified Network for Multiple Tasks, [paper](https://arxiv.org/abs/2105.04206), [Code](https://github.com/WongKinYiu/yolor)
 
 ##### pure soft parameter sharing
 
