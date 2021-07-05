@@ -54,6 +54,7 @@ And it's updating...
 - [ICML 2020] Learning to Branch for Multi-Task Learning, http://proceedings.mlr.press/v119/guo20e.html.
 - [arXiv 2021] UniT: Multimodal Multitask Learning with a Unified Transformer, https://arxiv.org/abs/2102.10772, [Code](https://mmf.sh/)
 - [arXiv 2021] You Only Learn One Representation: Unified Network for Multiple Tasks, [paper](https://arxiv.org/abs/2105.04206), [Code](https://github.com/WongKinYiu/yolor)
+- [CVPR 2021] CompositeTasking: Understanding Images by Spatial Composition of Tasks, [paper](https://arxiv.org/abs/2012.09030), [Code](https://github.com/nikola3794/composite-tasking): One network for multiple tasks, but requires multiple inferences.
 
 ##### pure soft parameter sharing
 
@@ -105,6 +106,7 @@ And it's updating...
 - Dynamic Task Weighting Methods for Multi-task Networks in Autonomous Driving Systems. In *2020 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC)*, pages 1–8. IEEE, sep 2020.
 - A Comparison of Loss Weighting Strategies for Multi task Learning in Deep Neural Networks. *IEEE Access*, 7:141627–141632, 2019.
 - [ICRA 2021] OmniDet Surround View Cameras Based Multi-Task Visual Perception Network for Autonomous Driving, [paper](https://arxiv.org/abs/2102.07448)
+- [CVPR 2021] Taskology: Utilizing Task Relations at Scale, [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Lu_Taskology_Utilizing_Task_Relations_at_Scale_CVPR_2021_paper.html)
 
 <a name="optimization"></a>
 
@@ -150,6 +152,7 @@ Commonly used in computer vision:
 - [MS-COCO](http://mscoco.org/) is a widely used dataset in CV. It contains 382k images with a total of 2.5 million labeled instances spanning 91 objects types. It can be used for multiple tasks including image classification, detection and segmentation.
 - [KITTI](www.cvlibs.net/datasets/kitti) is by far the most famous and commonly used dataset for autonomous driving. It provides benchmarks for multiple driving tasks: e.g. stereo matching, optical flow estimation, visual odometry/SLAM, semantic segmentation, object detection/orientation estimation and object tracking.
 - [BDD100K](https://bdd-data.berkeley.edu/) is a recent driving dataset designed for heterogeneous multitask learning. It is comprised of 100K video clips and 10 tasks: image tagging, lane detection, drivable area segmentation, road object detection, semantic segmentation, instance segmentation, multi-object detection tracking, multi-object segmentation tracking, domain adaptation and imitation learning.
+- [TransNAS-Bench-101](https://download.mindspore.cn/dataset/TransNAS-Bench-101): CVPR 2021, [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Duan_TransNAS-Bench-101_Improving_Transferability_and_Generalizability_of_Cross-Task_Neural_Architecture_Search_CVPR_2021_paper.html).
 
 <a name="apps"></a>
 ## Applications
@@ -176,10 +179,13 @@ Commonly used in computer vision:
 - [arXiv 2021] MonoGRNet: A General Framework for Monocular 3D Object Detection, https://arxiv.org/abs/2104.08797
 - [CVPR 2021] Multi-task Learning with Attention for End-to-end Autonomous Driving. *ArXiv**, abs/2104.10753*.
 - [ICRA 2021] OmniDet Surround View Cameras Based Multi-Task Visual Perception Network for Autonomous Driving, [paper](https://arxiv.org/abs/2102.07448)
+- [CVPR 2021] Deep Multi-Task Learning for Joint Localization, Perception, and Prediction. [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Phillips_Deep_Multi-Task_Learning_for_Joint_Localization_Perception_and_Prediction_CVPR_2021_paper.html)
 
 ##### Others
 
-- [CVPR 2021] When Age-Invariant Face Recognition Meets Face Age Synthesis: A Multi-Task Learning Framework, https://arxiv.org/abs/2103.01520, [Code](https://github.com/Hzzone/MTLFace)
+- [CVPR 2021] When Age-Invariant Face Recognition Meets Face Age Synthesis: A Multi-Task Learning Framework, [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Huang_When_Age-Invariant_Face_Recognition_Meets_Face_Age_Synthesis_A_Multi-Task_CVPR_2021_paper.html), [Code](https://github.com/Hzzone/MTLFace)
+- [CVPR 2021] Three Birds with One Stone: Multi-Task Temporal Action Detection via Recycling Temporal Annotations, [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Three_Birds_with_One_Stone_Multi-Task_Temporal_Action_Detection_via_CVPR_2021_paper.html)
+- [CVPR 2021] Anomaly Detection in Video via Self-Supervised and Multi-Task Learning, [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Georgescu_Anomaly_Detection_in_Video_via_Self-Supervised_and_Multi-Task_Learning_CVPR_2021_paper.html)
 
 #### Reinforcement learning
 
@@ -204,11 +210,15 @@ Commonly used in computer vision:
 ## Related Areas
 
 - Transfer Learning
+  - [CVPR 2021] Can We Characterize Tasks Without Labels or Features? [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Wallace_Can_We_Characterize_Tasks_Without_Labels_or_Features_CVPR_2021_paper.html), [code](https://github.com/BramSW/)
+  - [CVPR 2021] OTCE: A Transferability Metric for Cross-Domain Cross-Task Representations, [paper](https://arxiv.org/abs/2103.13843)
 - Auxiliary Learning
+  - [CVPR 2021] Image Change Captioning by Learning From an Auxiliary Task, [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Hosseinzadeh_Image_Change_Captioning_by_Learning_From_an_Auxiliary_Task_CVPR_2021_paper.html)
 - Multi-label Learning
 - Multi-modal Learning
 - Meta Learning
 - Continual Learning
+  - [CVPR 2021] KSM: Fast Multiple Task Adaption via Kernel-wise Soft Mask Learning, [paper](https://arxiv.org/abs/2009.05668)
   - [ICLR 2021] Linear Mode Connectivity in Multitask and Continual Learning, https://openreview.net/forum?id=Fmg_fQYUejf, [Code](https://github.com/imirzadeh/MC-SGD)
 - Curriculum Learning
 - Ensemble, Distillation and Model Fusion
