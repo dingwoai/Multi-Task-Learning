@@ -17,6 +17,7 @@ And it's updating...
 - [Datasets](#datasets)
 - [Applications](#apps)
 - [Related Areas](#related)
+- [Trends](#trends)
 
 <a name="papers"></a>
 
@@ -42,6 +43,7 @@ And it's updating...
 - [2019] How to study the neural mechanisms of multiple tasks, [paper](https://www.sciencedirect.com/science/article/pii/S2352154619300695)
 - [ICLR 2021] Deciphering and Optimizing Multi-Task Learning: a Random Matrix Approach, https://openreview.net/forum?id=Cri3xz59ga
 - [ICML 2021] Bridging Multi-Task Learning and Meta-Learning: Towards Efficient Training and Effective Adaptation, [paper](https://arxiv.org/abs/2106.09017), [code](https://github.com/AI-secure/multi-task-learning)
+- [bioRxiv 2021] Abstract representations emerge naturally in neural networks trained to perform multiple tasks, [paper](https://www.biorxiv.org/content/10.1101/2021.10.20.465187v1)
 
 <a name="archi"></a>
 
@@ -225,8 +227,8 @@ Commonly used in computer vision:
 - [arXiv 2021] Towards General Purpose Vision Systems, https://arxiv.org/pdf/2104.00743.pdf
 - [arXiv 2021] UniT: Multimodal Multitask Learning with a Unified Transformer, https://arxiv.org/abs/2102.10772, [Code](https://mmf.sh/)
 
-
 <a name="related"></a>
+
 ## Related Areas
 
 - Transfer Learning
@@ -242,3 +244,9 @@ Commonly used in computer vision:
   - [ICLR 2021] Linear Mode Connectivity in Multitask and Continual Learning, https://openreview.net/forum?id=Fmg_fQYUejf, [Code](https://github.com/imirzadeh/MC-SGD)
 - Curriculum Learning
 - Ensemble, Distillation and Model Fusion
+
+<a name="trends"></a>
+
+# Trends
+
+- [Pathways](https://blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/): multi-task, multi-modal, sparse activated
