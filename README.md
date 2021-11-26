@@ -89,6 +89,7 @@ And it's updating...
 - [NeurIPS 2020] Adashare: Learning what to share for efficient deep multi-task learning. *ArXiv*, abs/1911.12423, 2020. [Code](https://github.com/sunxm2357/AdaShare)
 - Mtl-nas: Task-agnostic neural architecture search towards general-purpose multi-task learning. In *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2020. [Code](https://github.com/bhpfelix/MTLNAS)
 - Many Task Learning With Task Routing. In*2019IEEE/CVF International Conference on Computer Vision (ICCV)*, pages 1375–1384. IEEE, oct 2019.
+- [arXiv 2021] FBNetV5: Neural Architecture Search for Multiple Tasks in One Run. [paper](https://arxiv.org/abs/2111.10007)
 
 <a name="trl"></a>
 ### Task relationship learning
@@ -143,6 +144,7 @@ And it's updating...
 - [AISTATS 2021] High-Dimensional Multi-Task Averaging and Application to Kernel Mean Embedding, http://proceedings.mlr.press/v130/marienwald21a.html
 - [ICLR 2021] Gradient Vaccine: Investigating and Improving Multi-task Optimization in Massively Multilingual Models, [paper](https://openreview.net/forum?id=F1vEjWK-lH_)
 - [ICLR 2021] Towards Impartial Multi-task Learning, https://openreview.net/forum?id=IMPnRXEWpvr
+- [NeurIPS 2021] Conflict-Averse Gradient Descent for Multi-task learning, [paper](https://arxiv.org/abs/2110.14048)
 
 <a name='novel'></a>
 
@@ -170,6 +172,7 @@ Commonly used in computer vision:
 - [MS-COCO](http://mscoco.org/) is a widely used dataset in CV. It contains 382k images with a total of 2.5 million labeled instances spanning 91 objects types. It can be used for multiple tasks including image classification, detection and segmentation.
 - [KITTI](www.cvlibs.net/datasets/kitti) is by far the most famous and commonly used dataset for autonomous driving. It provides benchmarks for multiple driving tasks: e.g. stereo matching, optical flow estimation, visual odometry/SLAM, semantic segmentation, object detection/orientation estimation and object tracking.
 - [BDD100K](https://bdd-data.berkeley.edu/) is a recent driving dataset designed for heterogeneous multitask learning. It is comprised of 100K video clips and 10 tasks: image tagging, lane detection, drivable area segmentation, road object detection, semantic segmentation, instance segmentation, multi-object detection tracking, multi-object segmentation tracking, domain adaptation and imitation learning.
+- [WoodScape](https://woodscape.valeo.com/): A Multi-Task, Multi-Camera Fisheye Dataset for Autonomous Driving. ICCV 2019. [paper](https://arxiv.org/abs/1905.01489), [code](https://github.com/valeoai/woodscape)
 - [TransNAS-Bench-101](https://download.mindspore.cn/dataset/TransNAS-Bench-101): CVPR 2021, Improving Transferability and Generalizability of Cross-Task Neural Architecture Search. [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Duan_TransNAS-Bench-101_Improving_Transferability_and_Generalizability_of_Cross-Task_Neural_Architecture_Search_CVPR_2021_paper.html).
 - [Omnidata](https://omnidata.vision/): ICCV 2021. Generating multi-task mid-level vision datasets from 3D Scans. [paper](https://arxiv.org/abs/2110.04994). 
 
@@ -224,9 +227,11 @@ Commonly used in computer vision:
 
 - [CVPR 2014] https://sites.google.com/site/deeplearningcvpr2014/DL-Multimodal_multitask_learning.pdf Multimodal learning and multitask learning 
 - [arXiv 2020] Multimodal Continuous Emotion Recognition using Deep Multi-Task Learning with Correlation Loss, https://arxiv.org/abs/2011.00876
-
 - [arXiv 2021] Towards General Purpose Vision Systems, https://arxiv.org/pdf/2104.00743.pdf
 - [arXiv 2021] UniT: Multimodal Multitask Learning with a Unified Transformer, https://arxiv.org/abs/2102.10772, [Code](https://mmf.sh/)
+- [NeurIPS 2021] Revisit Multimodal Meta-Learning through the Lens of Multi-Task Learning, [paper](https://arxiv.org/abs/2110.14202), [code](https://miladabd.github.io/KML)
+  - quantitative, task-level analysis inspired by the recent transference idea from multi-task learning
+- [NeurIPS 2021] Referring Transformer: A One-step Approach to Multi-task Visual Grounding, [paper](https://arxiv.org/abs/2106.03089)
 
 <a name="related"></a>
 
@@ -245,6 +250,8 @@ Commonly used in computer vision:
   - [ICLR 2021] Linear Mode Connectivity in Multitask and Continual Learning, https://openreview.net/forum?id=Fmg_fQYUejf, [Code](https://github.com/imirzadeh/MC-SGD)
 - Curriculum Learning
 - Ensemble, Distillation and Model Fusion
+- Federal Learning
+  - Federated Multi-Task Learning under a Mixture of Distributions, [paper](https://arxiv.org/abs/2108.10252)
 
 <a name="trends"></a>
 
