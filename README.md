@@ -51,6 +51,7 @@ And it's updating...
 
 ##### pure hard parameter sharing
 
+- [ICCV 2017] Multi-task Self-Supervised Visual Learning. [paper](https://ieeexplore.ieee.org/document/8237488)
 - MultiNet: Real-time Joint Semantic Reasoning for Autonomous Driving. In *IEEE Intelligent Vehicles Symposium, Proceedings*, 2018.
 - Multi-task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics. *Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition*, pages 7482–7491, 2018.
 - UberNet: Training a universal convolutional neural network for Low-, Mid-, and high-level vision using diverse datasets and limited memory. *Proceedings - 30th IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2017*, 2017-January:5454–5463, 2017.
@@ -76,7 +77,7 @@ And it's updating...
 
 - Cross-Stitch Networks for Multi-task Learning. In *Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition*, 2016.
 - Deep Multi-task Representation Learning: A Tensor Factorisation Approach. *5th International Conference on Learning Representations, ICLR 2017 - Conference Track Proceedings*, may 2016. [Code](https://github.com/wOOL/DMTRL)
-- Latent multi-task architecture learning. In *33rd AAAI Conference on Artificial Intelligence, AAAI 2019, 31st Innovative Applications of Artificial Intelligence Conference, IAAI 2019 and the 9th AAAI Symposium on Educational Advances in Artificial Intelligence, EAAI 2019*, 2019. [Code](https://github.com/sebastianruder/sluice-networks)
+- [AAAI 2019] Latent multi-task architecture learning. [paper](https://ojs.aaai.org//index.php/AAAI/article/view/4410), [Code](https://github.com/sebastianruder/sluice-networks)
 - NDDR-CNN: Layerwise Feature Fusing in Multi-Task CNNs by Neural Discriminative Dimensionality Reduction. In *2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, pages 3200–3209. IEEE, jun 2019. [Code](https://github.com/ethanygao/NDDR-CNN)
 
 ##### a mix of hard and soft
@@ -98,7 +99,7 @@ And it's updating...
 - [CVPR 2017] Fully-Adaptive Feature Sharing in Multi-Task Networks with Applications in Person Attribute Classification.
 - [arXiv 2020] Branched multi-task networks: Deciding what layers to share.
 - [arXiv 2020] Automated Search for Resource-Efficient Branched Multi-Task Networks.
-- [arXiv 2020] Learning to Branch for Multi-Task Learning. 
+- [ICML 2020] Learning to Branch for Multi-Task Learning. [paper](https://arxiv.org/abs/2006.01895v2)
 - [arXiv 2020] Measuring and harnessing transference in multi-task learning, [paper](https://arxiv.org/abs/2010.15413v3)
 - [ICML 2020] Which Tasks Should Be Learned Together in Multi-task Learning?, http://proceedings.mlr.press/v119/standley20a.html, [Code](https://github.com/tstandley/taskgrouping)
 - [ICLR 2021] AUXILIARY TASK UPDATE DECOMPOSITION: THE GOOD, THE BAD AND THE NEUTRAL, https://openreview.net/forum?id=1GTma8HwlYp
@@ -251,7 +252,7 @@ Commonly used in computer vision:
 - Curriculum Learning
 - Ensemble, Distillation and Model Fusion
 - Federal Learning
-  - Federated Multi-Task Learning under a Mixture of Distributions, [paper](https://arxiv.org/abs/2108.10252)
+  - [NeurIPS 2021] Federated Multi-Task Learning under a Mixture of Distributions, [paper](https://arxiv.org/abs/2108.10252)
 
 <a name="trends"></a>
 
