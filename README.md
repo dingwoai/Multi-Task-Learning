@@ -104,7 +104,7 @@ And it's updating...
 - [ICML 2020] Which Tasks Should Be Learned Together in Multi-task Learning?, http://proceedings.mlr.press/v119/standley20a.html, [Code](https://github.com/tstandley/taskgrouping)
 - [ICLR 2021] AUXILIARY TASK UPDATE DECOMPOSITION: THE GOOD, THE BAD AND THE NEUTRAL, https://openreview.net/forum?id=1GTma8HwlYp
   - decompose auxiliary updates into directions which help, damage or leave the primary task loss unchanged
-- [NeurIPS 2021] Efficiently Identifying Task Groupings for Multi-Task Learning, [paper](https://arxiv.org/abs/2109.04617)
+- [NeurIPS 2021] Efficiently Identifying Task Groupings for Multi-Task Learning, [paper](https://arxiv.org/abs/2109.04617), [code](https://github.com/google-research/google-research/tree/master/tag)
   - Our method determines task groupings in a single run by training all tasks together and quantifying the effect to which one task's gradient would affect another task's loss.
   - based on the idea and concepts in *Measuring and harnessing transference in multi-task learning*.
 
@@ -156,6 +156,7 @@ And it's updating...
 - [ECCV 2020] Multitask Learning Strengthens Adversarial Robustness, [paper](https://arxiv.org/abs/2007.07236v2), [Code](https://github.com/columbia/MTRobust)
 - [ICLR 2021] The Traveling Observer Model: Multi-task Learning Through Spatial Variable Embeddings, https://openreview.net/forum?id=qYda4oLEc1
   - a machine learning framework in which seemingly unrelated tasks can be solved by a single model, by embedding their input and output variables into a shared space. 
+- [arXiv 2021] Learning Multiple Dense Prediction Tasks from Partially Annotated Data, [paper](https://arxiv.org/abs/2111.14893)
 
 Also I need to mention that many MTL approaches utilize not just one category of methods listed above but a combination instead. 
 
