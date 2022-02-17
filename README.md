@@ -157,7 +157,6 @@ And it's updating...
 - [2012] Multiple-gradient descent algorithm (MGDA) for multiobjective optimization.
 - [NeurIPS 2018] Multi-task learning as multi-objective optimization, [paper](https://arxiv.org/abs/1810.04650)
   - MGDA-UB
-
 - [Neurips 2019] Pareto multi-task learning. [Code](https://github.com/xi-l/paretomtl)
 - [ICML 2020] Efficient continuous pareto exploration in multi-task learning. [Code](https://github.com/mit-gfx/ContinuousParetoMTL)
 - [arXiv 2020] Gradient Surgery for Multi-Task Learning. [Code](https://github.com/tianheyu927/PCGrad)
@@ -171,6 +170,13 @@ And it's updating...
 - [ICLR 2021] Towards Impartial Multi-task Learning, https://openreview.net/forum?id=IMPnRXEWpvr
 - [NeurIPS 2021] Conflict-Averse Gradient Descent for Multi-task learning, [paper](https://arxiv.org/abs/2110.14048)
 - [NeurIPS 2021] Profiling Pareto Front With Multi-Objective Stein Variational Gradient Descent, [paper](https://proceedings.neurips.cc/paper/2021/hash/7bb16972da003e87724f048d76b7e0e1-Abstract.html), [code](https://github.com/gnobitab/MultiObjectiveSampling)
+- [arXiv 2022] Multi-Task Learning as a Bargaining Game, [paper](https://arxiv.org/abs/2202.01017), [code](https://github.com/AvivNavon/nash-mtl)
+- [ICLR 2022] Relational Multi-Task Learning: Modeling Relations between Data and Tasks, [paper](https://openreview.net/forum?id=8Py-W8lSUgy)
+  - The proposed MetaLink reinterprets the last layer’s weights of each task as task nodes and creates a knowledge graph where data points and tasks are nodes and labeled edges provide information about labels of data points on tasks.
+
+- [ICLR 2022] RotoGrad: Gradient Homogenization in Multitask Learning, [paper](https://openreview.net/forum?id=T8wHz4rnuGL), [code](https://github.com/adrianjav/rotograd)
+- [ICLR 2022] Sequential Reptile: Inter-Task Gradient Alignment for Multilingual Learning, [paper](https://openreview.net/forum?id=ivQruZvXxtz)
+- [ICLR 2022] Weighted Training for Cross-Task Learning, [paper](https://openreview.net/forum?id=ltM1RMZntpu)
 
 <a name='novel'></a>
 
@@ -182,6 +188,7 @@ And it's updating...
 - [ICLR 2021] The Traveling Observer Model: Multi-task Learning Through Spatial Variable Embeddings, https://openreview.net/forum?id=qYda4oLEc1
   - a machine learning framework in which seemingly unrelated tasks can be solved by a single model, by embedding their input and output variables into a shared space. 
 - [arXiv 2021] Learning Multiple Dense Prediction Tasks from Partially Annotated Data, [paper](https://arxiv.org/abs/2111.14893)
+- [ICLR 2022] Multi-Task Neural Processes, [paper](https://openreview.net/forum?id=9otKVlgrpZG)
 
 Also I need to mention that many MTL approaches utilize not just one category of methods listed above but a combination instead. 
 
