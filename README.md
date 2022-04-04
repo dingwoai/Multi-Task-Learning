@@ -167,7 +167,7 @@ And it's updating...
 - [ICLR 2022] Weighted Training for Cross-Task Learning, [paper](https://openreview.net/forum?id=ltM1RMZntpu)
   - Target-Aware Weighted Training (TAWT) minimizes a representation-based task distance between the source and target tasks.
 
-
+- [arXiv 2022] Auto-Lambda: Disentangling Dynamic Task Relationships. [paper](https://arxiv.org/abs/2202.03091), [Code](https://github.com/lorenmt/auto-lambda)
 
 <a name="optimization"></a>
 
