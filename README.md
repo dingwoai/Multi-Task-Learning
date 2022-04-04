@@ -12,6 +12,7 @@ And it's updating...
     - [Pure hard](#hard)
     - [Pure soft](#soft)
     - [Mixture](#mix)
+    - [Dynamic architecture](#dynamic)
     - [Probabilistic MTL](#proba)
   - [Task relationship learning](#trl)
   - [Optimization methods](#optim)
@@ -81,7 +82,8 @@ And it's updating...
 - [arXiv 2021] Avoiding Catastrophe: Active Dendrites Enable Multi-Task Learning in Dynamic Environments. [paper](https://arxiv.org/abs/2201.00042)
   - Sparse representation.
 - [arXiv 2022] Inverted Pyramid Multi-task Transformer for Dense Scene Understanding. [paper](https://arxiv.org/abs/2203.07997)
-
+- [arXiv 2022] Multitask Emotion Recognition Model with Knowledge Distillation and Task Discriminator. [paper](https://arxiv.org/abs/2203.13072)
+  - Multi-task model with gradient reversal layer and task disciminator.
 
 <a name="soft"></a>
 
@@ -105,6 +107,15 @@ And it's updating...
 - Mtl-nas: Task-agnostic neural architecture search towards general-purpose multi-task learning. In *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2020. [Code](https://github.com/bhpfelix/MTLNAS)
 - Many Task Learning With Task Routing. In*2019IEEE/CVF International Conference on Computer Vision (ICCV)*, pages 1375–1384. IEEE, oct 2019.
 - [arXiv 2021] FBNetV5: Neural Architecture Search for Multiple Tasks in One Run. [paper](https://arxiv.org/abs/2111.10007)
+- [CVPR 2022] Task Adaptive Parameter Sharing for Multi-Task Learning. [paper](https://arxiv.org/abs/2203.16708)
+  - Differentiable task-specific parameters as perturbation of the base network.
+
+
+<a name="dynamic"></a>
+
+#### Dynamic Architecture
+
+- [CVPR 2022] Controllable Dynamic Multi-Task Architectures. [paper](https://arxiv.org/abs/2203.14949)
 
 <a name="proba"></a>
 
@@ -165,9 +176,9 @@ And it's updating...
 - [2012] Multiple-gradient descent algorithm (MGDA) for multiobjective optimization.
 - [NeurIPS 2018] Multi-task learning as multi-objective optimization, [paper](https://arxiv.org/abs/1810.04650)
   - MGDA-UB
-- [Neurips 2019] Pareto multi-task learning. [Code](https://github.com/xi-l/paretomtl)
+- [NeurIPS 2019] Pareto multi-task learning. [Code](https://github.com/xi-l/paretomtl)
 - [ICML 2020] Efficient continuous pareto exploration in multi-task learning. [Code](https://github.com/mit-gfx/ContinuousParetoMTL)
-- [arXiv 2020] Gradient Surgery for Multi-Task Learning. [Code](https://github.com/tianheyu927/PCGrad)
+- [NeurIPS 2020] Gradient Surgery for Multi-Task Learning. [paper](https://arxiv.org/abs/2001.06782), [Code](https://github.com/tianheyu927/PCGrad)
 - [ICML 2018] Deep asymmetric multi-task feature learning.
 - [ICML 2020] Multi-Task Learning with User Preferences: Gradient Descent with Controlled Ascent in Pareto Optimization, http://proceedings.mlr.press/v119/mahapatra20a.html, [Code](https://github.com/dbmptr/EPOSearch)
 - [ICML 2020] Efficient Continuous Pareto Exploration in Multi-Task Learning, http://proceedings.mlr.press/v119/ma20a.html, [Code](https://github.com/mit-gfx/ContinuousParetoMTL)
