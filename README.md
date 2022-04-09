@@ -39,6 +39,7 @@ And it's updating...
 - Multi-task learning for dense prediction tasks: A survey. *arXiv*, apr 2020.
 - A Brief Review of Deep Multi-task Learning and Auxiliary Task Learning. arXiv, jul 2020.
 - Multi-task learning with deep neural networks: A survey, 2020.
+- [arXiv 2022] A Survey of Multi-task Learning in Natural Language Processing: Regarding Task Relatedness and Training Methods. [paper](https://arxiv.org/abs/2204.03508)
 
 <a name="theory"></a>
 
@@ -170,6 +171,8 @@ And it's updating...
   - Target-Aware Weighted Training (TAWT) minimizes a representation-based task distance between the source and target tasks.
 
 - [arXiv 2022] Auto-Lambda: Disentangling Dynamic Task Relationships. [paper](https://arxiv.org/abs/2202.03091), [Code](https://github.com/lorenmt/auto-lambda)
+- [arXiv 2022] Universal Representations: A Unified Look at Multiple Task and Domain Learning. [paper](https://arxiv.org/abs/2204.02744), [Code](https://github.com/VICO-UoE/UniversalRepresentations)
+  - Distill knowledge from single-task networks.
 
 <a name="optimization"></a>
 
@@ -289,6 +292,7 @@ Commonly used in computer vision:
 - [NeurIPS 2021] Revisit Multimodal Meta-Learning through the Lens of Multi-Task Learning, [paper](https://arxiv.org/abs/2110.14202), [code](https://miladabd.github.io/KML)
   - quantitative, task-level analysis inspired by the recent transference idea from multi-task learning
 - [NeurIPS 2021] Referring Transformer: A One-step Approach to Multi-task Visual Grounding, [paper](https://arxiv.org/abs/2106.03089)
+- [arXiv] MultiMAE: Multi-modal Multi-task Masked Autoencoders. [project](https://multimae.epfl.ch/), [paper](https://arxiv.org/abs/2204.01678), [code](https://github.com/EPFL-VILAB/MultiMAE)
 
 <a name="related"></a>
 
@@ -309,6 +313,7 @@ Commonly used in computer vision:
 - Ensemble, Distillation and Model Fusion
 - Federal Learning
   - [NeurIPS 2021] Federated Multi-Task Learning under a Mixture of Distributions, [paper](https://arxiv.org/abs/2108.10252)
+  - [arXiv 2022] Multi-Task Distributed Learning using Vision Transformer with Random Patch Permutation. [paper](https://arxiv.org/abs/2204.03500)
 
 <a name="trends"></a>
 
