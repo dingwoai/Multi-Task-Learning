@@ -66,6 +66,9 @@ And it's updating...
 - [CVPR 2018] PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning, [Paper](https://arxiv.org/abs/1711.05769), [Code](https://github.com/arunmallya/packnet)
 - [ECCV 2018] Piggyback: Adapting a Single Network to Multiple Tasks by Learning to Mask Weights, [Paper](https://arxiv.org/abs/1801.06519v2), [Code](https://github.com/arunmallya/piggyback)
   - learn to mask weights of an existing network
+- [ICRA 2019] Real-Time Joint Semantic Segmentation and Depth Estimation Using Asymmetric Annotations. [paper](https://arxiv.org/abs/1809.04766)
+  - Using aysmmetric datasets with uneven numbers of annotations with knowledge distillation (under the assumption of a powerful teacher network).
+
 - [CCN 2019] Modulation of early visual processing alleviates capacity limits in solving multiple tasks, [Paper](https://arxiv.org/abs/1907.12309)
   - By associating neural modulations with task-based switching of the state of the network and characterizing when such switching is helpful in early processing, our results provide a functional perspective towards understanding why task-based modulation of early neural processes might be observed in the primate visual cortex.
 - [CVPR 2019] Attentive Single-Tasking of Multiple Tasks, [paper](https://arxiv.org/abs/1904.08918), [code](http://vision.ee.ethz.ch/~kmaninis/astmt/)
@@ -188,7 +191,7 @@ And it's updating...
 - [ICML 2020] Multi-Task Learning with User Preferences: Gradient Descent with Controlled Ascent in Pareto Optimization, http://proceedings.mlr.press/v119/mahapatra20a.html, [Code](https://github.com/dbmptr/EPOSearch)
 - [ICML 2020] Efficient Continuous Pareto Exploration in Multi-Task Learning, http://proceedings.mlr.press/v119/ma20a.html, [Code](https://github.com/mit-gfx/ContinuousParetoMTL)
 - [ICML 2020] Adaptive Adversarial Multi-task Representation Learning, http://proceedings.mlr.press/v119/mao20a.html
-- [2020] Task uncertainty loss reduce negative transfer in asymmetric multi-task feature learning.
+- [AAAI 2021] Task uncertainty loss reduce negative transfer in asymmetric multi-task feature learning. [paper](https://arxiv.org/abs/2012.09575)
 - [AISTATS 2021] High-Dimensional Multi-Task Averaging and Application to Kernel Mean Embedding, http://proceedings.mlr.press/v130/marienwald21a.html
 - [ICLR 2021] Gradient Vaccine: Investigating and Improving Multi-task Optimization in Massively Multilingual Models, [paper](https://openreview.net/forum?id=F1vEjWK-lH_)
 - [ICLR 2021] Towards Impartial Multi-task Learning, https://openreview.net/forum?id=IMPnRXEWpvr
