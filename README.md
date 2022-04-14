@@ -181,20 +181,19 @@ And it's updating...
 
 #### Optimization
 
-- [2012] Multiple-gradient descent algorithm (MGDA) for multiobjective optimization.
+- [Comptes Rendus Mathematique 2012] Multiple-gradient descent algorithm (MGDA) for multiobjective optimization. [paper](https://www.sciencedirect.com/science/article/pii/S1631073X12000738)
 - [NeurIPS 2018] Multi-task learning as multi-objective optimization, [paper](https://arxiv.org/abs/1810.04650)
   - MGDA-UB
-- [NeurIPS 2019] Pareto multi-task learning. [Code](https://github.com/xi-l/paretomtl)
-- [ICML 2020] Efficient continuous pareto exploration in multi-task learning. [Code](https://github.com/mit-gfx/ContinuousParetoMTL)
-- [NeurIPS 2020] Gradient Surgery for Multi-Task Learning. [paper](https://arxiv.org/abs/2001.06782), [Code](https://github.com/tianheyu927/PCGrad)
 - [ICML 2018] Deep asymmetric multi-task feature learning.
-- [ICML 2020] Multi-Task Learning with User Preferences: Gradient Descent with Controlled Ascent in Pareto Optimization, http://proceedings.mlr.press/v119/mahapatra20a.html, [Code](https://github.com/dbmptr/EPOSearch)
-- [ICML 2020] Efficient Continuous Pareto Exploration in Multi-Task Learning, http://proceedings.mlr.press/v119/ma20a.html, [Code](https://github.com/mit-gfx/ContinuousParetoMTL)
-- [ICML 2020] Adaptive Adversarial Multi-task Representation Learning, http://proceedings.mlr.press/v119/mao20a.html
+- [NeurIPS 2019] Pareto multi-task learning. [paper](https://papers.nips.cc/paper/2019/hash/685bfde03eb646c27ed565881917c71c-Abstract.html). [Code](https://github.com/xi-l/paretomtl)
+- [NeurIPS 2020] Gradient Surgery for Multi-Task Learning. [paper](https://arxiv.org/abs/2001.06782), [Code](https://github.com/tianheyu927/PCGrad)
+- [ICML 2020] Multi-Task Learning with User Preferences: Gradient Descent with Controlled Ascent in Pareto Optimization, [paper](http://proceedings.mlr.press/v119/mahapatra20a.html), [Code](https://github.com/dbmptr/EPOSearch)
+- [ICML 2020] Efficient Continuous Pareto Exploration in Multi-Task Learning, [paper](http://proceedings.mlr.press/v119/ma20a.html), [Code](https://github.com/mit-gfx/ContinuousParetoMTL)
+- [ICML 2020] Adaptive Adversarial Multi-task Representation Learning, [paper](http://proceedings.mlr.press/v119/mao20a.html)
 - [AAAI 2021] Task uncertainty loss reduce negative transfer in asymmetric multi-task feature learning. [paper](https://arxiv.org/abs/2012.09575)
-- [AISTATS 2021] High-Dimensional Multi-Task Averaging and Application to Kernel Mean Embedding, http://proceedings.mlr.press/v130/marienwald21a.html
+- [AISTATS 2021] High-Dimensional Multi-Task Averaging and Application to Kernel Mean Embedding, [paper](http://proceedings.mlr.press/v130/marienwald21a.html)
 - [ICLR 2021] Gradient Vaccine: Investigating and Improving Multi-task Optimization in Massively Multilingual Models, [paper](https://openreview.net/forum?id=F1vEjWK-lH_)
-- [ICLR 2021] Towards Impartial Multi-task Learning, https://openreview.net/forum?id=IMPnRXEWpvr
+- [ICLR 2021] Towards Impartial Multi-task Learning, [paper](https://openreview.net/forum?id=IMPnRXEWpvr)
 - [NeurIPS 2021] Conflict-Averse Gradient Descent for Multi-task learning, [paper](https://arxiv.org/abs/2110.14048)
 - [NeurIPS 2021] Profiling Pareto Front With Multi-Objective Stein Variational Gradient Descent, [paper](https://proceedings.neurips.cc/paper/2021/hash/7bb16972da003e87724f048d76b7e0e1-Abstract.html), [code](https://github.com/gnobitab/MultiObjectiveSampling)
 - [arXiv 2022] Multi-Task Learning as a Bargaining Game, [paper](https://arxiv.org/abs/2202.01017), [code](https://github.com/AvivNavon/nash-mtl)
