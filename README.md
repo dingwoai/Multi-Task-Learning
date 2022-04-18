@@ -39,6 +39,9 @@ And it's updating...
 - Multi-task learning for dense prediction tasks: A survey. *arXiv*, apr 2020.
 - A Brief Review of Deep Multi-task Learning and Auxiliary Task Learning. arXiv, jul 2020.
 - Multi-task learning with deep neural networks: A survey, 2020.
+- [arXiv 2022] Multi-Task Learning for Visual Scene Understanding. [paper](https://arxiv.org/abs/2203.14896)
+  - PhD Thesis.
+
 - [arXiv 2022] A Survey of Multi-task Learning in Natural Language Processing: Regarding Task Relatedness and Training Methods. [paper](https://arxiv.org/abs/2204.03508)
 
 <a name="theory"></a>
@@ -187,6 +190,7 @@ And it's updating...
 - [ICML 2018] Deep asymmetric multi-task feature learning.
 - [NeurIPS 2019] Pareto multi-task learning. [paper](https://papers.nips.cc/paper/2019/hash/685bfde03eb646c27ed565881917c71c-Abstract.html). [Code](https://github.com/xi-l/paretomtl)
 - [NeurIPS 2020] Gradient Surgery for Multi-Task Learning. [paper](https://arxiv.org/abs/2001.06782), [Code](https://github.com/tianheyu927/PCGrad)
+- [NeurIPS 2020] Just Pick a Sign: Optimizing Deep Multitask Models with Gradient Sign Dropout. [paper](https://arxiv.org/abs/2010.06808)
 - [ICML 2020] Multi-Task Learning with User Preferences: Gradient Descent with Controlled Ascent in Pareto Optimization, [paper](http://proceedings.mlr.press/v119/mahapatra20a.html), [Code](https://github.com/dbmptr/EPOSearch)
 - [ICML 2020] Efficient Continuous Pareto Exploration in Multi-Task Learning, [paper](http://proceedings.mlr.press/v119/ma20a.html), [Code](https://github.com/mit-gfx/ContinuousParetoMTL)
 - [ICML 2020] Adaptive Adversarial Multi-task Representation Learning, [paper](http://proceedings.mlr.press/v119/mao20a.html)
@@ -204,6 +208,8 @@ And it's updating...
 - [ICLR 2022] Sequential Reptile: Inter-Task Gradient Alignment for Multilingual Learning, [paper](https://openreview.net/forum?id=ivQruZvXxtz)
 - [arXiv 2022] On Steering Multi-Annotations per Sample for Multi-Task Learning. [paper](https://arxiv.org/abs/2203.02946)
   - Each sample is randomly allocated a subset of tasks during training. (Imo. Can be regarded as a special case of *A Closer Look at Loss Weighting in Multi-Task Learning*.)
+- [arXiv 2022] Leveraging convergence behavior to balance conflicting tasks in multi-task learning. [paper](https://arxiv.org/abs/2204.06698)
+  - Proposed a method that takes into account temporal behaviour of the gradients to create a dynamic bias that adjust the importance of each task during the backpropagation.
 
 
 <a name='novel'></a>
@@ -211,12 +217,15 @@ And it's updating...
 ### Novel Settings
 
 - [CVPR 2019] Deep Virtual Networks for Memory Efficient Inference of Multiple Tasks, [paper](https://ieeexplore.ieee.org/document/8954328/)
-- [ICML 2020] Task Understanding from Confusing Multi-task Data, http://proceedings.mlr.press/v119/su20b.html
+- [ICML 2020] Task Understanding from Confusing Multi-task Data, [paper](http://proceedings.mlr.press/v119/su20b.html)
 - [ECCV 2020] Multitask Learning Strengthens Adversarial Robustness, [paper](https://arxiv.org/abs/2007.07236v2), [Code](https://github.com/columbia/MTRobust)
-- [ICLR 2021] The Traveling Observer Model: Multi-task Learning Through Spatial Variable Embeddings, https://openreview.net/forum?id=qYda4oLEc1
+- [ICLR 2021] The Traveling Observer Model: Multi-task Learning Through Spatial Variable Embeddings, [paper](https://openreview.net/forum?id=qYda4oLEc1)
   - a machine learning framework in which seemingly unrelated tasks can be solved by a single model, by embedding their input and output variables into a shared space. 
 - [arXiv 2021] Learning Multiple Dense Prediction Tasks from Partially Annotated Data, [paper](https://arxiv.org/abs/2111.14893)
 - [ICLR 2022] Multi-Task Neural Processes, [paper](https://openreview.net/forum?id=9otKVlgrpZG)
+- [DAC 2022] MIME: Adapting a Single Neural Network for Multi-task Inference with Memory-efficient Dynamic Pruning. [paper](https://arxiv.org/abs/2204.05274)
+  - MIME results in highly memory-efficient DRAM storage of neural-network parameters for multiple tasks compared to conventional multi-task inference. 
+
 
 Also I need to mention that many MTL approaches utilize not just one category of methods listed above but a combination instead. 
 
