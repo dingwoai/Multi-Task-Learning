@@ -98,8 +98,10 @@ And it's updating...
   - Multi-task model with gradient reversal layer and task disciminator.
 - [arXiv 2022] M^2BEV: Multi-Camera Joint 3D Detection and Segmentation with Unified Bird’s-Eye View Representation. [paper](https://arxiv.org/abs/2204.05088). [project](https://nvlabs.github.io/M2BEV/)
   - Comparison with LSS: 2D to 3D transformation without estimating depth. (Each pixel in 2D feature map is mapped to a set of points in the camera ray in 3D space).
-  - Multi-tasking 3D detection and BEV segmentation causes slight drop in performance.c
+  - Multi-tasking 3D detection and BEV segmentation causes slight drop in performance.
 - [ICME 2022] Rethinking Hard-Parameter Sharing in Multi-Domain Learning. [paper](https://arxiv.org/abs/2107.11359)
+- [NeurIPS 2022] Effective Adaptation in Multi-Task Co-Training for Unified Autonomous Driving. [paper](https://arxiv.org/abs/2209.08953)
+  - A LV-Adapter incorporates language priors in the multi-task model via task-specific prompting and alignment between visual and textual features.
 
 <a name="soft"></a>
 
@@ -296,6 +298,7 @@ Commonly used in computer vision:
 - [ICRA 2021] OmniDet Surround View Cameras Based Multi-Task Visual Perception Network for Autonomous Driving, [paper](https://arxiv.org/abs/2102.07448)
 - [CVPR 2021] Deep Multi-Task Learning for Joint Localization, Perception, and Prediction. [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Phillips_Deep_Multi-Task_Learning_for_Joint_Localization_Perception_and_Prediction_CVPR_2021_paper.html)
 - [CVPR 2022 workshop] LidarMultiNet: Unifying LiDAR Semantic Segmentation, 3D Object Detection, and Panoptic Segmentation in a Single Multi-task Network. [paper](https://arxiv.org/abs/2206.11428)
+  - LidarMultiNet: Towards a Unified Multi-task Network for LiDAR Perception [paper](https://arxiv.org/abs/2209.09385)
 
 ##### Others
 
