@@ -233,7 +233,8 @@ And it's updating...
   - Each sample is randomly allocated a subset of tasks during training. (Imo. Can be regarded as a special case of *A Closer Look at Loss Weighting in Multi-Task Learning*.)
 - [arXiv 2022] Leveraging convergence behavior to balance conflicting tasks in multi-task learning. [paper](https://arxiv.org/abs/2204.06698)
   - Proposed a method that takes into account temporal behaviour of the gradients to create a dynamic bias that adjust the importance of each task during the backpropagation.
-
+- [arxiv 2022] Do Current Multi-Task Optimization Methods in Deep Learning Even Help? [paper](https://arxiv.org/abs/2209.11379)
+  - Despite the added design and computational complexity of these algorithms, MTO methods do not yield any performance improvements beyond what is achievable via traditional optimization approaches.
 
 <a name='novel'></a>
 
