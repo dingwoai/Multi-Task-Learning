@@ -147,7 +147,9 @@ And it's updating...
 
   - Andrea Gesmundo, Jeff Dean
   - A ViT-L architecture (307M params) was evolved into a multitask system with 13087M params jointly solving 69 tasks.
-
+- [arXiv 2022] M3ViT: Mixture-of-Experts Vision Transformer for Efficient Multi-task Learning with Model-Accelerator Co-design. [paper](https://arxiv.org/abs/2210.14793)
+  - at training, it disentangles the parameter spaces to avoid different tasks’ training conflicts.
+  - at inference, it allows for activating only the task-corresponding sparse “expert” pathway, instead of the full model
 
 <a name="proba"></a>
 
