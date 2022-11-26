@@ -353,6 +353,8 @@ Commonly used in computer vision:
 - Federal Learning
   - [NeurIPS 2021] Federated Multi-Task Learning under a Mixture of Distributions, [paper](https://arxiv.org/abs/2108.10252)
   - [arXiv 2022] Multi-Task Distributed Learning using Vision Transformer with Random Patch Permutation. [paper](https://arxiv.org/abs/2204.03500)
+- Active Learning
+  - [arXiv 2022] PartAL: Efficient Partial Active Learning in Multi-Task Visual Settings, [paper](https://arxiv.org/abs/2211.11546)
 
 <a name="trends"></a>
 
