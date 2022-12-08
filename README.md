@@ -303,7 +303,9 @@ Commonly used in computer vision:
 - [ICRA 2021] OmniDet Surround View Cameras Based Multi-Task Visual Perception Network for Autonomous Driving, [paper](https://arxiv.org/abs/2102.07448)
 - [CVPR 2021] Deep Multi-Task Learning for Joint Localization, Perception, and Prediction. [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Phillips_Deep_Multi-Task_Learning_for_Joint_Localization_Perception_and_Prediction_CVPR_2021_paper.html)
 - [CVPR 2022 workshop] LidarMultiNet: Unifying LiDAR Semantic Segmentation, 3D Object Detection, and Panoptic Segmentation in a Single Multi-task Network. [paper](https://arxiv.org/abs/2206.11428)
-  - LidarMultiNet: Towards a Unified Multi-task Network for LiDAR Perception [paper](https://arxiv.org/abs/2209.09385)
+  - LidarMultiNet: Towards a Unified Multi-task Network for LiDAR Perception. [paper](https://arxiv.org/abs/2209.09385)
+- [arXiv 2022] Perceive, Interact, Predict: Learning Dynamic and Static Clues for End-to-End Motion Prediction. [paper](https://arxiv.org/abs/2212.02181)
+  -  jointly and interactively performs online mapping, object detection and motion prediction.
 
 ##### Others
 
