@@ -53,7 +53,6 @@ And it's updating...
 - [ICLR 2021] Deciphering and Optimizing Multi-Task Learning: a Random Matrix Approach, https://openreview.net/forum?id=Cri3xz59ga
 - [ICML 2021] Bridging Multi-Task Learning and Meta-Learning: Towards Efficient Training and Effective Adaptation, [paper](https://arxiv.org/abs/2106.09017), [code](https://github.com/AI-secure/multi-task-learning)
 - [bioRxiv 2021] Abstract representations emerge naturally in neural networks trained to perform multiple tasks, [paper](https://www.biorxiv.org/content/10.1101/2021.10.20.465187v1)
-- [arXiv 2022] Editing Models with Task Arithmetic. [paper](https://arxiv.org/abs/2212.04089)
 
 <a name="archi"></a>
 
@@ -173,6 +172,7 @@ And it's updating...
 - [NeurIPS 2021] Efficiently Identifying Task Groupings for Multi-Task Learning, [paper](https://arxiv.org/abs/2109.04617), [code](https://github.com/google-research/google-research/tree/master/tag)
   - Our method determines task groupings in a single run by training all tasks together and quantifying the effect to which one task's gradient would affect another task's loss.
   - based on the idea and concepts in *Measuring and harnessing transference in multi-task learning*.
+- [arXiv 2022] Editing Models with Task Arithmetic. [paper](https://arxiv.org/abs/2212.04089)
 
 <a name="optim"></a>
 
