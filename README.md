@@ -307,6 +307,7 @@ Commonly used in computer vision:
   - LidarMultiNet: Towards a Unified Multi-task Network for LiDAR Perception. [paper](https://arxiv.org/abs/2209.09385)
 - [arXiv 2022] Perceive, Interact, Predict: Learning Dynamic and Static Clues for End-to-End Motion Prediction. [paper](https://arxiv.org/abs/2212.02181)
   -  jointly and interactively performs online mapping, object detection and motion prediction.
+- [IEEE TIV 2022] Surround-view Fisheye BEV-Perception for Valet Parking: Dataset, Baseline and Distortion-insensitive Multi-task Framework. [paper](https://arxiv.org/abs/2212.04111)
 
 ##### Others
 
@@ -336,7 +337,8 @@ Commonly used in computer vision:
 - [NeurIPS 2021] Revisit Multimodal Meta-Learning through the Lens of Multi-Task Learning, [paper](https://arxiv.org/abs/2110.14202), [code](https://miladabd.github.io/KML)
   - quantitative, task-level analysis inspired by the recent transference idea from multi-task learning
 - [NeurIPS 2021] Referring Transformer: A One-step Approach to Multi-task Visual Grounding, [paper](https://arxiv.org/abs/2106.03089)
-- [arXiv] MultiMAE: Multi-modal Multi-task Masked Autoencoders. [project](https://multimae.epfl.ch/), [paper](https://arxiv.org/abs/2204.01678), [code](https://github.com/EPFL-VILAB/MultiMAE)
+- [arXiv 2022] MultiMAE: Multi-modal Multi-task Masked Autoencoders. [project](https://multimae.epfl.ch/), [paper](https://arxiv.org/abs/2204.01678), [code](https://github.com/EPFL-VILAB/MultiMAE)
+- [arXiv 2022] OFASys: A Multi-Modal Multi-Task Learning System for Building Generalist Models. [paper](https://arxiv.org/abs/2212.04408), [Code](https://github.com/OFA-Sys/OFASys)
 
 <a name="related"></a>
 
