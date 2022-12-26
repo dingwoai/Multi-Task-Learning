@@ -42,7 +42,6 @@ And it's updating...
 - Multi-task learning with deep neural networks: A survey, 2020.
 - [arXiv 2022] Multi-Task Learning for Visual Scene Understanding. [paper](https://arxiv.org/abs/2203.14896)
   - PhD Thesis.
-
 - [arXiv 2022] A Survey of Multi-task Learning in Natural Language Processing: Regarding Task Relatedness and Training Methods. [paper](https://arxiv.org/abs/2204.03508)
 
 <a name="theory"></a>
@@ -140,16 +139,15 @@ And it's updating...
 #### Dynamic Architecture
 
 - [CVPR 2022] Controllable Dynamic Multi-Task Architectures. [paper](https://arxiv.org/abs/2203.14949)
-
 - [arXiv 2022] An Evolutionary Approach to Dynamic Introduction of Tasks in Large-scale Multitask Learning Systems. [paper](https://arxiv.org/abs/2205.12755) 
-
   muNet: Evolving Pretrained Deep Neural Networks into Scalable Auto-tuning Multitask Systems. [paper](https://arxiv.org/abs/2205.10937)
-
   - Andrea Gesmundo, Jeff Dean
   - A ViT-L architecture (307M params) was evolved into a multitask system with 13087M params jointly solving 69 tasks.
-- [arXiv 2022] M3ViT: Mixture-of-Experts Vision Transformer for Efficient Multi-task Learning with Model-Accelerator Co-design. [paper](https://arxiv.org/abs/2210.14793)
+- [NeurIPS 2022] M3ViT: Mixture-of-Experts Vision Transformer for Efficient Multi-task Learning with Model-Accelerator Co-design. [paper](https://openreview.net/forum?id=cFOhdl1cyU-), [Code](https://github.com/VITA-Group/M3ViT)
   - at training, it disentangles the parameter spaces to avoid different tasks’ training conflicts.
   - at inference, it allows for activating only the task-corresponding sparse “expert” pathway, instead of the full model
+- [arXiv 2022] Mod-Squad: Designing Mixture of Experts As Modular Multi-Task Learners. [paper](https://arxiv.org/abs/2212.08066)
+  - we incorporate mixture of experts (MoE) layers into a transformer model, with a new loss that incorporates the mutual dependence between tasks and experts. This prevents the sharing of the entire backbone model between all tasks, which strengthens the model, especially when the training set size and the number of tasks scale up.
 
 <a name="proba"></a>
 
@@ -196,12 +194,10 @@ And it's updating...
 - [CVPR 2021] Taskology: Utilizing Task Relations at Scale, [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Lu_Taskology_Utilizing_Task_Relations_at_Scale_CVPR_2021_paper.html)
 - [arXiv 2021] A Closer Look at Loss Weighting in Multi-Task Learning. [paper](https://arxiv.org/abs/2111.10603)
   - MTL model with random weights sampled from a distribution.
-
 - [arXiv 2022] In Defense of the Unitary Scalarization for Deep Multi-Task Learning. [paper](https://arxig.org/abs/2201.04122)
   - None of the ad-hoc multi-task optimization algorithms consistently outperform unitary scalarization, where training simply minimizes the sum of the task losses.
 - [ICLR 2022] Weighted Training for Cross-Task Learning, [paper](https://openreview.net/forum?id=ltM1RMZntpu)
   - Target-Aware Weighted Training (TAWT) minimizes a representation-based task distance between the source and target tasks.
-
 - [arXiv 2022] Auto-Lambda: Disentangling Dynamic Task Relationships. [paper](https://arxiv.org/abs/2202.03091), [Code](https://github.com/lorenmt/auto-lambda)
 - [arXiv 2022] Universal Representations: A Unified Look at Multiple Task and Domain Learning. [paper](https://arxiv.org/abs/2204.02744), [Code](https://github.com/VICO-UoE/UniversalRepresentations)
   - Distill knowledge from single-task networks.
@@ -282,7 +278,6 @@ Commonly used in computer vision:
 #### Natural language processing
 
 - [ICML 2008] A unified architecture for natural language processing: deep neural networks with multitask learning, https://dl.acm.org/doi/10.1145/1390156.1390177
-
 - [ICLR 2021] Conditionally Adaptive Multi-Task Learning: Improving Transfer Learning in NLP Using Fewer Parameters & Less Data, https://openreview.net/pdf?id=de11dbHzAMF, [Code](https://github.com/CAMTL/CA-MTL)
 - [ICLR 2021] HyperGrid Transformers: Towards A Single Model for Multiple Tasks, https://openreview.net/forum?id=hiq1rHO8pNT
 - [ICML 2020] XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalisation, http://proceedings.mlr.press/v119/hu20b.html, [Code](https://github.com/google-research/xtreme)
