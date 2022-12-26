@@ -303,6 +303,8 @@ Commonly used in computer vision:
 - [arXiv 2022] Perceive, Interact, Predict: Learning Dynamic and Static Clues for End-to-End Motion Prediction. [paper](https://arxiv.org/abs/2212.02181)
   -  jointly and interactively performs online mapping, object detection and motion prediction.
 - [IEEE TIV 2022] Surround-view Fisheye BEV-Perception for Valet Parking: Dataset, Baseline and Distortion-insensitive Multi-task Framework. [paper](https://arxiv.org/abs/2212.04111)
+- [arXiv 2022] **Goal-oriented Autonomous Driving.** [paper](https://arxiv.org/abs/2212.10156). [project](https://opendrivelab.github.io/UniAD/)
+  - the first comprehensive framework up-to-date that incorporates full-stack driving tasks in one network. 
 
 ##### Others
 
