@@ -138,7 +138,7 @@ And it's updating...
 
 #### Dynamic Architecture
 
-- [CVPR 2022] Controllable Dynamic Multi-Task Architectures. [paper](https://arxiv.org/abs/2203.14949)
+- [CVPR 2022] Controllable Dynamic Multi-Task Architectures. [paper](https://arxiv.org/abs/2203.14949). [project](https://www.nec-labs.com/~mas/DYMU/)
 - [arXiv 2022] An Evolutionary Approach to Dynamic Introduction of Tasks in Large-scale Multitask Learning Systems. [paper](https://arxiv.org/abs/2205.12755) 
   muNet: Evolving Pretrained Deep Neural Networks into Scalable Auto-tuning Multitask Systems. [paper](https://arxiv.org/abs/2205.10937)
   - Andrea Gesmundo, Jeff Dean
