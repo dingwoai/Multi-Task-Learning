@@ -294,13 +294,13 @@ Commonly used in computer vision:
 
 - [ICML 2019] Multi-task learning in the wildness. https://slideslive.com/38917690/multitask-learning-in-the-wilderness
 - [arXiv 2020] Efficient Latent Representations using Multiple Tasks for Autonomous Driving, [paper](https://arxiv.org/abs/2003.00695)
-- [arXiv 2021] MonoGRNet: A General Framework for Monocular 3D Object Detection, https://arxiv.org/abs/2104.08797
-- [CVPR 2021] Multi-task Learning with Attention for End-to-end Autonomous Driving. *ArXiv**, abs/2104.10753*.
+- [arXiv 2021] MonoGRNet: A General Framework for Monocular 3D Object Detection, [paper](https://arxiv.org/abs/2104.08797)
+- [CVPR 2021] Multi-task Learning with Attention for End-to-end Autonomous Driving. [paper](https://arxiv.org/abs/2104.10753)
 - [ICRA 2021] OmniDet Surround View Cameras Based Multi-Task Visual Perception Network for Autonomous Driving, [paper](https://arxiv.org/abs/2102.07448)
 - [CVPR 2021] Deep Multi-Task Learning for Joint Localization, Perception, and Prediction. [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Phillips_Deep_Multi-Task_Learning_for_Joint_Localization_Perception_and_Prediction_CVPR_2021_paper.html)
 - [CVPR 2022 workshop] LidarMultiNet: Unifying LiDAR Semantic Segmentation, 3D Object Detection, and Panoptic Segmentation in a Single Multi-task Network. [paper](https://arxiv.org/abs/2206.11428)
-- [arXiv 2022] BEVerse: Unified Perception and Prediction in Birds-Eye-View for Vision-Centric Autonomous Driving. [paper](https://arxiv.org/abs/2205.09743). [code](https://github.com/zhangyp15/BEVerse)
   - LidarMultiNet: Towards a Unified Multi-task Network for LiDAR Perception. [paper](https://arxiv.org/abs/2209.09385)
+- [arXiv 2022] BEVerse: Unified Perception and Prediction in Birds-Eye-View for Vision-Centric Autonomous Driving. [paper](https://arxiv.org/abs/2205.09743). [code](https://github.com/zhangyp15/BEVerse)
 - [arXiv 2022] Perceive, Interact, Predict: Learning Dynamic and Static Clues for End-to-End Motion Prediction. [paper](https://arxiv.org/abs/2212.02181)
   -  jointly and interactively performs online mapping, object detection and motion prediction.
 - [IEEE TIV 2022] Surround-view Fisheye BEV-Perception for Valet Parking: Dataset, Baseline and Distortion-insensitive Multi-task Framework. [paper](https://arxiv.org/abs/2212.04111)
