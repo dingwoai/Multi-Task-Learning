@@ -92,7 +92,7 @@ And it's updating...
 - [ICCV 2021] MultiTask-CenterNet (MCN): Efficient and Diverse Multitask Learning using an Anchor Free Approach, [paper](https://arxiv.org/abs/2108.05060)
 - [arXiv 2021] Avoiding Catastrophe: Active Dendrites Enable Multi-Task Learning in Dynamic Environments. [paper](https://arxiv.org/abs/2201.00042)
   - Sparse representation.
-- [arXiv 2022] Inverted Pyramid Multi-task Transformer for Dense Scene Understanding. [paper](https://arxiv.org/abs/2203.07997)
+- [ECCV 2022] Inverted Pyramid Multi-task Transformer for Dense Scene Understanding. [paper](https://arxiv.org/abs/2203.07997). [code](https://github.com/prismformore/InvPT)
 - [arXiv 2022] Multitask Emotion Recognition Model with Knowledge Distillation and Task Discriminator. [paper](https://arxiv.org/abs/2203.13072)
   - Multi-task model with gradient reversal layer and task disciminator.
 - [arXiv 2022] M^2BEV: Multi-Camera Joint 3D Detection and Segmentation with Unified Bird’s-Eye View Representation. [paper](https://arxiv.org/abs/2204.05088). [project](https://nvlabs.github.io/M2BEV/)
