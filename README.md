@@ -124,7 +124,7 @@ And it's updating...
 - [CVPR 2022] Task Adaptive Parameter Sharing for Multi-Task Learning. [paper](https://arxiv.org/abs/2203.16708)
   - Differentiable task-specific parameters as perturbation of the base network.
 - [arXiv 2022] Cross-task Attention Mechanism for Dense Multi-task Learning. [paper](https://arxiv.org/abs/2206.08927)
-- [arXiv 2023] DeMT: Deformable Mixer Transformer for Multi-Task Learning of Dense Prediction. [paper](https://arxiv.org/abs/2301.03461). [Code](https://github.com/yangyangxu0/DeMT)
+- [AAAI 2023] DeMT: Deformable Mixer Transformer for Multi-Task Learning of Dense Prediction. [paper](https://arxiv.org/abs/2301.03461). [Code](https://github.com/yangyangxu0/DeMT)
   - Leverages the combination of both merits of deformable CNN and query-based Transformer for multi-task learning of dense prediction.
 
 <a name='nas'></a>
