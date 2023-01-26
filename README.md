@@ -236,6 +236,8 @@ And it's updating...
   - Proposed a method that takes into account temporal behaviour of the gradients to create a dynamic bias that adjust the importance of each task during the backpropagation.
 - [arxiv 2022] Do Current Multi-Task Optimization Methods in Deep Learning Even Help? [paper](https://arxiv.org/abs/2209.11379)
   - Despite the added design and computational complexity of these algorithms, MTO methods do not yield any performance improvements beyond what is achievable via traditional optimization approaches.
+- [NeurIPS 2022] On the Convergence of Stochastic Multi-Objective Gradient Manipulation and Beyond. [paper](https://openreview.net/forum?id=ScwfQ7hdwyP)
+  - The stochastic gradient manipulation algorithms may fail to converge to Pareto optimal solutions and the authors fix it with an algorithm by averaging past weights.
 - [AAAI 2023] AdaTask: A Task-aware Adaptive Learning Rate Approach to Multi-task Learning. [paper](https://arxiv.org/abs/2211.15055)
   - Separate the accumulative gradients and hence the learning rate of each task for each parameter in adaptive learning rate approaches.
 
