@@ -126,6 +126,8 @@ And it's updating...
 - [arXiv 2022] Cross-task Attention Mechanism for Dense Multi-task Learning. [paper](https://arxiv.org/abs/2206.08927)
 - [AAAI 2023] DeMT: Deformable Mixer Transformer for Multi-Task Learning of Dense Prediction. [paper](https://arxiv.org/abs/2301.03461). [Code](https://github.com/yangyangxu0/DeMT)
   - Leverages the combination of both merits of deformable CNN and query-based Transformer for multi-task learning of dense prediction.
+- [ICLR 2023] TaskPrompter: Spatial-Channel Multi-Task Prompting for Dense Scene Understanding. [paper](https://openreview.net/forum?id=-CwPopPJda)
+  - a novel spatial-channel multi-task prompting transformer framework.
 
 <a name='nas'></a>
 
@@ -150,6 +152,8 @@ And it's updating...
   - at inference, it allows for activating only the task-corresponding sparse “expert” pathway, instead of the full model
 - [arXiv 2022] Mod-Squad: Designing Mixture of Experts As Modular Multi-Task Learners. [paper](https://arxiv.org/abs/2212.08066)
   - we incorporate mixture of experts (MoE) layers into a transformer model, with a new loss that incorporates the mutual dependence between tasks and experts. This prevents the sharing of the entire backbone model between all tasks, which strengthens the model, especially when the training set size and the number of tasks scale up.
+- [ICLR 2023] Recon: Reducing Conflicting Gradients From the Root For Multi-Task Learning. [paper](https://openreview.net/forum?id=ivwZO-HnzG_)
+  - Investigate the task gradients w.r.t. each shared network layer, select the layers with high conflict scores, and set them task-specific. 
 
 <a name="proba"></a>
 
@@ -240,6 +244,8 @@ And it's updating...
   - The stochastic gradient manipulation algorithms may fail to converge to Pareto optimal solutions and the authors fix it with an algorithm by averaging past weights.
 - [AAAI 2023] AdaTask: A Task-aware Adaptive Learning Rate Approach to Multi-task Learning. [paper](https://arxiv.org/abs/2211.15055)
   - Separate the accumulative gradients and hence the learning rate of each task for each parameter in adaptive learning rate approaches.
+- [ICLR 2023] Mitigating Gradient Bias in Multi-objective Learning: A Provably Convergent Approach. [paper](https://openreview.net/forum?id=dLAYGdKTi2)
+  - a stochastic multi-objective gradient correction (MoCo) method that can guarantee convergence without increasing the batch size even in the nonconvex setting.
 
 <a name='novel'></a>
 
@@ -341,6 +347,7 @@ Commonly used in computer vision:
 - [NeurIPS 2021] Referring Transformer: A One-step Approach to Multi-task Visual Grounding, [paper](https://arxiv.org/abs/2106.03089)
 - [arXiv 2022] MultiMAE: Multi-modal Multi-task Masked Autoencoders. [project](https://multimae.epfl.ch/), [paper](https://arxiv.org/abs/2204.01678), [code](https://github.com/EPFL-VILAB/MultiMAE)
 - [arXiv 2022] OFASys: A Multi-Modal Multi-Task Learning System for Building Generalist Models. [paper](https://arxiv.org/abs/2212.04408), [Code](https://github.com/OFA-Sys/OFASys)
+- [ICLR 2023] UNIFIED-IO: A Unified Model for Vision, Language, and Multi-modal Tasks. [paper](https://openreview.net/forum?id=E01k9048soZ)
 
 <a name="related"></a>
 
