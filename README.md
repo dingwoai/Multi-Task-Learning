@@ -246,6 +246,7 @@ And it's updating...
   - Separate the accumulative gradients and hence the learning rate of each task for each parameter in adaptive learning rate approaches.
 - [ICLR 2023] Mitigating Gradient Bias in Multi-objective Learning: A Provably Convergent Approach. [paper](https://openreview.net/forum?id=dLAYGdKTi2)
   - a stochastic multi-objective gradient correction (MoCo) method that can guarantee convergence without increasing the batch size even in the nonconvex setting.
+- [arXiv 2023] ForkMerge: Overcoming Negative Transfer in Multi-Task Learning. [paper](https://arxiv.org/abs/2301.12618)
 
 <a name='novel'></a>
 
@@ -316,6 +317,7 @@ Commonly used in computer vision:
 - [IEEE TIV 2022] Surround-view Fisheye BEV-Perception for Valet Parking: Dataset, Baseline and Distortion-insensitive Multi-task Framework. [paper](https://arxiv.org/abs/2212.04111)
 - [arXiv 2022] **Goal-oriented Autonomous Driving.** [paper](https://arxiv.org/abs/2212.10156). [project](https://opendrivelab.github.io/UniAD/)
   - the first comprehensive framework up-to-date that incorporates full-stack driving tasks in one network. 
+- [arXiv 2023] AOP-Net: All-in-One Perception Network for Joint LiDAR-based 3D Object Detection and Panoptic Segmentation. [paper](https://arxiv.org/abs/2302.00885)
 
 ##### Others
 
