@@ -366,6 +366,7 @@ Commonly used in computer vision:
 - Continual Learning
   - [CVPR 2021] KSM: Fast Multiple Task Adaption via Kernel-wise Soft Mask Learning, [paper](https://arxiv.org/abs/2009.05668)
   - [ICLR 2021] Linear Mode Connectivity in Multitask and Continual Learning, https://openreview.net/forum?id=Fmg_fQYUejf, [Code](https://github.com/imirzadeh/MC-SGD)
+  - [arXiv 2023] SubTuning: Efficient Finetuning for Multi-Task Learning. [paper](https://arxiv.org/abs/2302.06354)
 - Curriculum Learning
 - Ensemble, Distillation and Model Fusion
 - Federal Learning
