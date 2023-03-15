@@ -128,6 +128,7 @@ And it's updating...
   - Leverages the combination of both merits of deformable CNN and query-based Transformer for multi-task learning of dense prediction.
 - [ICLR 2023] TaskPrompter: Spatial-Channel Multi-Task Prompting for Dense Scene Understanding. [paper](https://openreview.net/forum?id=-CwPopPJda)
   - a novel spatial-channel multi-task prompting transformer framework.
+- [CVPR 2023] Visual Exemplar Driven Task-Prompting for Unified Perception in Autonomous Driving. [paper](https://arxiv.org/abs/2303.01788)
 
 <a name='nas'></a>
 
