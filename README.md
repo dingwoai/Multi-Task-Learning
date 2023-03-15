@@ -361,6 +361,7 @@ Commonly used in computer vision:
 - Auxiliary Learning
   - [CVPR 2021] Image Change Captioning by Learning From an Auxiliary Task, [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Hosseinzadeh_Image_Change_Captioning_by_Learning_From_an_Auxiliary_Task_CVPR_2021_paper.html)
 - Multi-label Learning
+  - [AAAI 2023] Incomplete Multi-View Multi-Label Learning via Label-Guided Masked View- and Category-Aware Transformers. [paper](https://arxiv.org/abs/2303.07180)
 - Multi-modal Learning
 - Meta Learning
 - Continual Learning
