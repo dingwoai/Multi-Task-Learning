@@ -262,7 +262,7 @@ And it's updating...
 - [ICLR 2022] Multi-Task Neural Processes, [paper](https://openreview.net/forum?id=9otKVlgrpZG)
 - [DAC 2022] MIME: Adapting a Single Neural Network for Multi-task Inference with Memory-efficient Dynamic Pruning. [paper](https://arxiv.org/abs/2204.05274)
   - MIME results in highly memory-efficient DRAM storage of neural-network parameters for multiple tasks compared to conventional multi-task inference. 
-
+- [T-PAMI 2023] Performance-aware Approximation of Global Channel Pruning for Multitask CNNs, [paper](https://arxiv.org/abs/2303.11923), [Code](http://www.github.com/HankYe/PAGCP.git)
 
 Also I need to mention that many MTL approaches utilize not just one category of methods listed above but a combination instead. 
 
@@ -319,6 +319,7 @@ Commonly used in computer vision:
 - [arXiv 2022] **Goal-oriented Autonomous Driving.** [paper](https://arxiv.org/abs/2212.10156). [project](https://opendrivelab.github.io/UniAD/)
   - the first comprehensive framework up-to-date that incorporates full-stack driving tasks in one network. 
 - [arXiv 2023] AOP-Net: All-in-One Perception Network for Joint LiDAR-based 3D Object Detection and Panoptic Segmentation. [paper](https://arxiv.org/abs/2302.00885)
+- [arXiv 2023] LiDARFormer: A Unified Transformer-based Multi-task Network for LiDAR Perception. [paper](https://arxiv.org/abs/2303.12194)
 
 ##### Others
 
