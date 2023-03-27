@@ -263,6 +263,7 @@ And it's updating...
 - [DAC 2022] MIME: Adapting a Single Neural Network for Multi-task Inference with Memory-efficient Dynamic Pruning. [paper](https://arxiv.org/abs/2204.05274)
   - MIME results in highly memory-efficient DRAM storage of neural-network parameters for multiple tasks compared to conventional multi-task inference. 
 - [T-PAMI 2023] Performance-aware Approximation of Global Channel Pruning for Multitask CNNs, [paper](https://arxiv.org/abs/2303.11923), [Code](http://www.github.com/HankYe/PAGCP.git)
+- [arXiv 2023] Efficient Computation Sharing for Multi-Task Visual Scene Understanding, [paper](https://arxiv.org/abs/2303.09663)
 
 Also I need to mention that many MTL approaches utilize not just one category of methods listed above but a combination instead. 
 
