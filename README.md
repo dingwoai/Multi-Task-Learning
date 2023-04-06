@@ -127,7 +127,7 @@ And it's updating...
 - [arXiv 2022] Cross-task Attention Mechanism for Dense Multi-task Learning. [paper](https://arxiv.org/abs/2206.08927)
 - [AAAI 2023] DeMT: Deformable Mixer Transformer for Multi-Task Learning of Dense Prediction. [paper](https://arxiv.org/abs/2301.03461). [Code](https://github.com/yangyangxu0/DeMT)
   - Leverages the combination of both merits of deformable CNN and query-based Transformer for multi-task learning of dense prediction.
-- [ICLR 2023] TaskPrompter: Spatial-Channel Multi-Task Prompting for Dense Scene Understanding. [paper](https://openreview.net/forum?id=-CwPopPJda)
+- [ICLR 2023] TaskPrompter: Spatial-Channel Multi-Task Prompting for Dense Scene Understanding. [paper](https://openreview.net/forum?id=-CwPopPJda). [Code](https://github.com/prismformore/Multi-Task-Transformer/tree/main/TaskPrompter).
   - a novel spatial-channel multi-task prompting transformer framework.
 - [CVPR 2023] Visual Exemplar Driven Task-Prompting for Unified Perception in Autonomous Driving. [paper](https://arxiv.org/abs/2303.01788)
 
