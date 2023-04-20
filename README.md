@@ -139,6 +139,7 @@ And it's updating...
 - [CVPR 2020] Mtl-nas: Task-agnostic neural architecture search towards general-purpose multi-task learning. [Code](https://github.com/bhpfelix/MTLNAS)
 - [arXiv 2021] AutoMTL: A Programming Framework for Automated Multi-Task Learning. [paper](https://arxiv.org/abs/2110.13076). [Code](https://github.com/zhanglijun95/AutoMTL)
 - [arXiv 2021] FBNetV5: Neural Architecture Search for Multiple Tasks in One Run. [paper](https://arxiv.org/abs/2111.10007)
+- [arXiv 2023] AutoTaskFormer: Searching Vision Transformers for Multi-task Learning. [paper](https://arxiv.org/abs/2304.08756)
 
 <a name="dynamic"></a>
 
@@ -265,6 +266,7 @@ And it's updating...
   - MIME results in highly memory-efficient DRAM storage of neural-network parameters for multiple tasks compared to conventional multi-task inference. 
 - [T-PAMI 2023] Performance-aware Approximation of Global Channel Pruning for Multitask CNNs, [paper](https://arxiv.org/abs/2303.11923), [Code](http://www.github.com/HankYe/PAGCP.git)
 - [arXiv 2023] Efficient Computation Sharing for Multi-Task Visual Scene Understanding, [paper](https://arxiv.org/abs/2303.09663)
+- [CVPR 2023] AdaMTL: Adaptive Input-dependent Inference for Efficient Multi-Task Learning. [paper](https://arxiv.org/abs/2304.08594), [Code](https://github.com/scale-lab/AdaMTL.git).
 
 Also I need to mention that many MTL approaches utilize not just one category of methods listed above but a combination instead. 
 
