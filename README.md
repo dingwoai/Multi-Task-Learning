@@ -157,6 +157,7 @@ And it's updating...
   - we incorporate mixture of experts (MoE) layers into a transformer model, with a new loss that incorporates the mutual dependence between tasks and experts. This prevents the sharing of the entire backbone model between all tasks, which strengthens the model, especially when the training set size and the number of tasks scale up.
 - [ICLR 2023] Recon: Reducing Conflicting Gradients From the Root For Multi-Task Learning. [paper](https://openreview.net/forum?id=ivwZO-HnzG_)
   - Investigate the task gradients w.r.t. each shared network layer, select the layers with high conflict scores, and set them task-specific. 
+- [arXiv 2023] DynaShare: Task and Instance Conditioned Parameter Sharing for Multi-Task Learning. [paper](https://arxiv.org/abs/2305.17305)
 
 <a name="proba"></a>
 
