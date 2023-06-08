@@ -211,6 +211,7 @@ And it's updating...
 - [arXiv 2022] Auto-Lambda: Disentangling Dynamic Task Relationships. [paper](https://arxiv.org/abs/2202.03091), [Code](https://github.com/lorenmt/auto-lambda)
 - [arXiv 2022] Universal Representations: A Unified Look at Multiple Task and Domain Learning. [paper](https://arxiv.org/abs/2204.02744), [Code](https://github.com/VICO-UoE/UniversalRepresentations)
   - Distill knowledge from single-task networks.
+- [arXiv 2023] Sample-Level Weighting for Multi-Task Learning with Auxiliary Tasks. [paper](https://arxiv.org/abs/2306.04519)
 
 <a name="optimization"></a>
 
