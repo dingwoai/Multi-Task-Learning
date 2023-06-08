@@ -253,6 +253,8 @@ And it's updating...
   - a stochastic multi-objective gradient correction (MoCo) method that can guarantee convergence without increasing the batch size even in the nonconvex setting.
 - [arXiv 2023] ForkMerge: Overcoming Negative Transfer in Multi-Task Learning. [paper](https://arxiv.org/abs/2301.12618)
 - [CVPR 2023] Independent Component Alignment for Multi-Task Learning. [paper](https://arxiv.org/abs/2305.19000), [code](https://github.com/SamsungLabs/MTL)
+- [arXiv 2023] FAMO: Fast Adaptive Multitask Optimization. [paper](https://arxiv.org/abs/2306.03792), [code](https://github.com/Cranial-XIX/FAMO)
+  - a dynamic weighting method that decreases task losses in a balanced way using O(1) space and time.
 
 <a name='novel'></a>
 
