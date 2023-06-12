@@ -130,6 +130,7 @@ And it's updating...
 - [ICLR 2023] TaskPrompter: Spatial-Channel Multi-Task Prompting for Dense Scene Understanding. [paper](https://openreview.net/forum?id=-CwPopPJda). [Code](https://github.com/prismformore/Multi-Task-Transformer/tree/main/TaskPrompter).
   - a novel spatial-channel multi-task prompting transformer framework.
 - [CVPR 2023] Visual Exemplar Driven Task-Prompting for Unified Perception in Autonomous Driving. [paper](https://arxiv.org/abs/2303.01788)
+- [arXiv 2023] A Dynamic Feature Interaction Framework for Multi-task Visual Perception. [paper](https://arxiv.org/abs/2306.05061)
 
 <a name='nas'></a>
 
