@@ -102,6 +102,7 @@ And it's updating...
 - [NeurIPS 2022] Effective Adaptation in Multi-Task Co-Training for Unified Autonomous Driving. [paper](https://arxiv.org/abs/2209.08953)
   - A LV-Adapter incorporates language priors in the multi-task model via task-specific prompting and alignment between visual and textual features.
 - [arXiv 2023] A Study of Autoregressive Decoders for Multi-Tasking in Computer Vision. [paper](https://arxiv.org/abs/2303.17376)
+- [arXiv 2023] InvPT++: Inverted Pyramid Multi-Task Transformer for Visual Scene Understanding. [paper](https://arxiv.org/abs/2306.04842). [code](https://github.com/prismformore/Multi-Task-Transformer/tree/main/InvPT)
 
 <a name="soft"></a>
 
