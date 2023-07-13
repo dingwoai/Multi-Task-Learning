@@ -308,6 +308,7 @@ Commonly used in computer vision:
 #### Speech processing
 
 #### Computer vision
+- [CVPR 2023 FMW] [Workshop on Foundation Models](https://foundation-model.com/Paper_Submission). 
 
 ##### Medical Imaging
 
