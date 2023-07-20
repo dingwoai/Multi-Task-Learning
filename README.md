@@ -333,6 +333,7 @@ Commonly used in computer vision:
 - [arXiv 2023] AOP-Net: All-in-One Perception Network for Joint LiDAR-based 3D Object Detection and Panoptic Segmentation. [paper](https://arxiv.org/abs/2302.00885)
 - [arXiv 2023] LiDARFormer: A Unified Transformer-based Multi-task Network for LiDAR Perception. [paper](https://arxiv.org/abs/2303.12194)
 - [CVPR 2023] TBP-Former: Learning Temporal Bird's-Eye-View Pyramid for Joint Perception and Prediction in Vision-Centric Autonomous Driving. [paper](https://arxiv.org/abs/2303.09998). [code](https://github.com/MediaBrain-SJTU/TBP-Former).
+- [arXiv 2023] LiDAR-BEVMTN: Real-Time LiDAR Bird's-Eye View Multi-Task Perception Network for Autonomous Driving. [paper](https://arxiv.org/abs/2307.08850).
 
 ##### Others
 
