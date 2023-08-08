@@ -258,6 +258,7 @@ And it's updating...
 - [CVPR 2023] Independent Component Alignment for Multi-Task Learning. [paper](https://arxiv.org/abs/2305.19000), [code](https://github.com/SamsungLabs/MTL)
 - [arXiv 2023] FAMO: Fast Adaptive Multitask Optimization. [paper](https://arxiv.org/abs/2306.03792), [code](https://github.com/Cranial-XIX/FAMO)
   - a dynamic weighting method that decreases task losses in a balanced way using O(1) space and time.
+- [arXiv 2023] FULLER: Unified Multi-modality Multi-task 3D Perception via Multi-level Gradient Calibration. [paper](https://arxiv.org/abs/2307.16617)
 
 <a name='novel'></a>
 
