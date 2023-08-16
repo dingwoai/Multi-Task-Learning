@@ -104,6 +104,7 @@ And it's updating...
 - [arXiv 2023] A Study of Autoregressive Decoders for Multi-Tasking in Computer Vision. [paper](https://arxiv.org/abs/2303.17376)
 - [arXiv 2023] InvPT++: Inverted Pyramid Multi-Task Transformer for Visual Scene Understanding. [paper](https://arxiv.org/abs/2306.04842). [code](https://github.com/prismformore/Multi-Task-Transformer/tree/main/InvPT)
 - [arXiv 2023] Prompt Guided Transformer for Multi-Task Dense Prediction. [paper](https://arxiv.org/abs/2307.15362)
+- [CVPR 2023] Mitigating Task Interference in Multi-Task Learning via Explicit Task Routing with Non-Learnable Primitives. [paper](https://arxiv.org/abs/2308.02066). [code](https://github.com/zhichao-lu/etr-nlp-mtl).
 
 <a name="soft"></a>
 
