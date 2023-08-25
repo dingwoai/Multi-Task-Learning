@@ -163,6 +163,7 @@ And it's updating...
 - [ICLR 2023] Recon: Reducing Conflicting Gradients From the Root For Multi-Task Learning. [paper](https://openreview.net/forum?id=ivwZO-HnzG_)
   - Investigate the task gradients w.r.t. each shared network layer, select the layers with high conflict scores, and set them task-specific. 
 - [arXiv 2023] DynaShare: Task and Instance Conditioned Parameter Sharing for Multi-Task Learning. [paper](https://arxiv.org/abs/2305.17305)
+- [ICCV 2023] Efficient Controllable Multi-Task Architectures. [paper](https://arxiv.org/abs/2308.11744)
 
 <a name="proba"></a>
 
@@ -261,6 +262,7 @@ And it's updating...
 - [arXiv 2023] FAMO: Fast Adaptive Multitask Optimization. [paper](https://arxiv.org/abs/2306.03792), [code](https://github.com/Cranial-XIX/FAMO)
   - a dynamic weighting method that decreases task losses in a balanced way using O(1) space and time.
 - [arXiv 2023] FULLER: Unified Multi-modality Multi-task 3D Perception via Multi-level Gradient Calibration. [paper](https://arxiv.org/abs/2307.16617)
+- [arXiv 2023] A Scale-Invariant Task Balancing Approach for Multi-Task Learning. [paper](https://arxiv.org/abs/2308.12029)
 
 <a name='novel'></a>
 
@@ -338,6 +340,7 @@ Commonly used in computer vision:
 - [arXiv 2023] LiDARFormer: A Unified Transformer-based Multi-task Network for LiDAR Perception. [paper](https://arxiv.org/abs/2303.12194)
 - [CVPR 2023] TBP-Former: Learning Temporal Bird's-Eye-View Pyramid for Joint Perception and Prediction in Vision-Centric Autonomous Driving. [paper](https://arxiv.org/abs/2303.09998). [code](https://github.com/MediaBrain-SJTU/TBP-Former).
 - [arXiv 2023] LiDAR-BEVMTN: Real-Time LiDAR Bird's-Eye View Multi-Task Perception Network for Autonomous Driving. [paper](https://arxiv.org/abs/2307.08850).
+- [RA-L 2023] Multi-Modal Multi-Task (3MT) Road Segmentation. [paper](https://arxiv.org/abs/2308.11983). [code](https://github.com/ErkanMilli/3MT-RoadSeg).
 
 ##### Others
 
