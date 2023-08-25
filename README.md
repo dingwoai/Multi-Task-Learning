@@ -105,6 +105,7 @@ And it's updating...
 - [arXiv 2023] InvPT++: Inverted Pyramid Multi-Task Transformer for Visual Scene Understanding. [paper](https://arxiv.org/abs/2306.04842). [code](https://github.com/prismformore/Multi-Task-Transformer/tree/main/InvPT)
 - [arXiv 2023] Prompt Guided Transformer for Multi-Task Dense Prediction. [paper](https://arxiv.org/abs/2307.15362)
 - [CVPR 2023] Mitigating Task Interference in Multi-Task Learning via Explicit Task Routing with Non-Learnable Primitives. [paper](https://arxiv.org/abs/2308.02066). [code](https://github.com/zhichao-lu/etr-nlp-mtl).
+- [ICCV 2023] Vision Transformer Adapters for Generalizable Multitask Learning. [paper](https://arxiv.org/abs/2308.12372)
 
 <a name="soft"></a>
 
@@ -280,6 +281,7 @@ And it's updating...
 - [T-PAMI 2023] Performance-aware Approximation of Global Channel Pruning for Multitask CNNs, [paper](https://arxiv.org/abs/2303.11923), [Code](http://www.github.com/HankYe/PAGCP.git)
 - [arXiv 2023] Efficient Computation Sharing for Multi-Task Visual Scene Understanding, [paper](https://arxiv.org/abs/2303.09663)
 - [CVPR 2023] AdaMTL: Adaptive Input-dependent Inference for Efficient Multi-Task Learning. [paper](https://arxiv.org/abs/2304.08594), [Code](https://github.com/scale-lab/AdaMTL.git).
+- [arXiv 2023] Label Budget Allocation in Multi-Task Learning. [paper](https://arxiv.org/abs/2308.12949).
 
 Also I need to mention that many MTL approaches utilize not just one category of methods listed above but a combination instead. 
 
