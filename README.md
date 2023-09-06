@@ -52,6 +52,7 @@ And it's updating...
 - [ICLR 2021] Deciphering and Optimizing Multi-Task Learning: a Random Matrix Approach, https://openreview.net/forum?id=Cri3xz59ga
 - [ICML 2021] Bridging Multi-Task Learning and Meta-Learning: Towards Efficient Training and Effective Adaptation, [paper](https://arxiv.org/abs/2106.09017), [code](https://github.com/AI-secure/multi-task-learning)
 - [bioRxiv 2021] Abstract representations emerge naturally in neural networks trained to perform multiple tasks, [paper](https://www.biorxiv.org/content/10.1101/2021.10.20.465187v1)
+- [arXiv 2023] Revisiting Scalarization in Multi-Task Learning: A Theoretical Perspective. [paper](https://arxiv.org/abs/2308.13985)
 
 <a name="archi"></a>
 
