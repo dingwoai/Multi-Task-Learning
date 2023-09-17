@@ -137,6 +137,9 @@ And it's updating...
   - a novel spatial-channel multi-task prompting transformer framework.
 - [CVPR 2023] Visual Exemplar Driven Task-Prompting for Unified Perception in Autonomous Driving. [paper](https://arxiv.org/abs/2303.01788)
 - [arXiv 2023] A Dynamic Feature Interaction Framework for Multi-task Visual Perception. [paper](https://arxiv.org/abs/2306.05061)
+- [ICCV 2023] Video Task Decathlon: Unifying Image and Video Tasks in Autonomous Driving. [paper](https://arxiv.org/abs/2309.04422)
+  - VTDNet groups similar tasks and employs task interaction stages to exchange information within and between task groups
+  - a Curriculum training, Pseudo-labeling, and Fine-tuning (CPF) scheme
 
 <a name='nas'></a>
 
