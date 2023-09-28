@@ -268,6 +268,7 @@ And it's updating...
   - a dynamic weighting method that decreases task losses in a balanced way using O(1) space and time.
 - [arXiv 2023] FULLER: Unified Multi-modality Multi-task 3D Perception via Multi-level Gradient Calibration. [paper](https://arxiv.org/abs/2307.16617)
 - [arXiv 2023] A Scale-Invariant Task Balancing Approach for Multi-Task Learning. [paper](https://arxiv.org/abs/2308.12029)
+- [MICCAI 2023] Multi-Task Cooperative Learning via Searching for Flat Minima. [paper](https://arxiv.org/abs/2309.12090)
 
 <a name='novel'></a>
 
