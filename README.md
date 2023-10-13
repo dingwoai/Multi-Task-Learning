@@ -192,6 +192,7 @@ And it's updating...
   - Our method determines task groupings in a single run by training all tasks together and quantifying the effect to which one task's gradient would affect another task's loss.
   - based on the idea and concepts in *Measuring and harnessing transference in multi-task learning*.
 - [arXiv 2022] Editing Models with Task Arithmetic. [paper](https://arxiv.org/abs/2212.04089)
+- [arXiv 2023] AdaMerging: Adaptive Model Merging for Multi-Task Learning. [paper](https://arxiv.org/abs/2310.02575)
 
 <a name="optim"></a>
 
