@@ -349,6 +349,7 @@ Commonly used in computer vision:
 - [CVPR 2023] TBP-Former: Learning Temporal Bird's-Eye-View Pyramid for Joint Perception and Prediction in Vision-Centric Autonomous Driving. [paper](https://arxiv.org/abs/2303.09998). [code](https://github.com/MediaBrain-SJTU/TBP-Former).
 - [arXiv 2023] LiDAR-BEVMTN: Real-Time LiDAR Bird's-Eye View Multi-Task Perception Network for Autonomous Driving. [paper](https://arxiv.org/abs/2307.08850).
 - [RA-L 2023] Multi-Modal Multi-Task (3MT) Road Segmentation. [paper](https://arxiv.org/abs/2308.11983). [code](https://github.com/ErkanMilli/3MT-RoadSeg).
+- [CVPR-W] LeTFuser: Light-weight End-to-end Transformer-Based Sensor Fusion for Autonomous Driving with Multi-Task Learning. [paper](https://arxiv.org/abs/2310.13135). [code](https://github.com/pagand/e2etransfuser/tree/cvpr-w)
 
 ##### Others
 
