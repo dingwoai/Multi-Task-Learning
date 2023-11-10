@@ -288,6 +288,7 @@ And it's updating...
 - [arXiv 2023] Efficient Computation Sharing for Multi-Task Visual Scene Understanding, [paper](https://arxiv.org/abs/2303.09663)
 - [CVPR 2023] AdaMTL: Adaptive Input-dependent Inference for Efficient Multi-Task Learning. [paper](https://arxiv.org/abs/2304.08594), [Code](https://github.com/scale-lab/AdaMTL.git).
 - [arXiv 2023] Label Budget Allocation in Multi-Task Learning. [paper](https://arxiv.org/abs/2308.12949).
+- [BMVC 2023] Data exploitation: multi-task learning of object detection and semantic segmentation on partially annotated data. [paper](https://arxiv.org/abs/2311.04040).
 
 Also I need to mention that many MTL approaches utilize not just one category of methods listed above but a combination instead. 
 
