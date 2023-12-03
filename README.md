@@ -270,6 +270,7 @@ And it's updating...
 - [arXiv 2023] FULLER: Unified Multi-modality Multi-task 3D Perception via Multi-level Gradient Calibration. [paper](https://arxiv.org/abs/2307.16617)
 - [arXiv 2023] A Scale-Invariant Task Balancing Approach for Multi-Task Learning. [paper](https://arxiv.org/abs/2308.12029)
 - [MICCAI 2023] Multi-Task Cooperative Learning via Searching for Flat Minima. [paper](https://arxiv.org/abs/2309.12090)
+- [arXiv 2023] Challenging Common Assumptions in Multi-task Learning. [paper](https://arxiv.org/abs/2311.04698)
 
 <a name='novel'></a>
 
