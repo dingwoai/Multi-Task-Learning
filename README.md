@@ -52,7 +52,7 @@ And it's updating...
 - [ICLR 2021] Deciphering and Optimizing Multi-Task Learning: a Random Matrix Approach, https://openreview.net/forum?id=Cri3xz59ga
 - [ICML 2021] Bridging Multi-Task Learning and Meta-Learning: Towards Efficient Training and Effective Adaptation, [paper](https://arxiv.org/abs/2106.09017), [code](https://github.com/AI-secure/multi-task-learning)
 - [bioRxiv 2021] Abstract representations emerge naturally in neural networks trained to perform multiple tasks, [paper](https://www.biorxiv.org/content/10.1101/2021.10.20.465187v1)
-- [arXiv 2023] Revisiting Scalarization in Multi-Task Learning: A Theoretical Perspective. [paper](https://arxiv.org/abs/2308.13985)
+- [NeurIPS 2023] Revisiting Scalarization in Multi-Task Learning: A Theoretical Perspective. [paper](https://openreview.net/forum?id=6EqUpqMnwl)
 
 <a name="archi"></a>
 
@@ -265,7 +265,7 @@ And it's updating...
   - a stochastic multi-objective gradient correction (MoCo) method that can guarantee convergence without increasing the batch size even in the nonconvex setting.
 - [arXiv 2023] ForkMerge: Overcoming Negative Transfer in Multi-Task Learning. [paper](https://arxiv.org/abs/2301.12618)
 - [CVPR 2023] Independent Component Alignment for Multi-Task Learning. [paper](https://arxiv.org/abs/2305.19000), [code](https://github.com/SamsungLabs/MTL)
-- [arXiv 2023] FAMO: Fast Adaptive Multitask Optimization. [paper](https://arxiv.org/abs/2306.03792), [code](https://github.com/Cranial-XIX/FAMO)
+- [NeurIPS 2023] FAMO: Fast Adaptive Multitask Optimization. [paper](https://openreview.net/forum?id=zMeemcUeXL), [code](https://github.com/Cranial-XIX/FAMO)
   - a dynamic weighting method that decreases task losses in a balanced way using O(1) space and time.
 - [arXiv 2023] FULLER: Unified Multi-modality Multi-task 3D Perception via Multi-level Gradient Calibration. [paper](https://arxiv.org/abs/2307.16617)
 - [arXiv 2023] A Scale-Invariant Task Balancing Approach for Multi-Task Learning. [paper](https://arxiv.org/abs/2308.12029)
