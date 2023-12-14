@@ -290,6 +290,8 @@ And it's updating...
 - [CVPR 2023] AdaMTL: Adaptive Input-dependent Inference for Efficient Multi-Task Learning. [paper](https://arxiv.org/abs/2304.08594), [Code](https://github.com/scale-lab/AdaMTL.git).
 - [arXiv 2023] Label Budget Allocation in Multi-Task Learning. [paper](https://arxiv.org/abs/2308.12949).
 - [BMVC 2023] Data exploitation: multi-task learning of object detection and semantic segmentation on partially annotated data. [paper](https://arxiv.org/abs/2311.04040).
+- [ICCV 2023] Multi-task View Synthesis with Neural Radiance Fields. [paper](https://arxiv.org/abs/2309.17450). [project](https://zsh2000.github.io/mtvs.github.io/). [Code](https://github.com/zsh2000/MuvieNeRF)
+  - we present a novel problem setting -- multi-task view synthesis (MTVS), which reinterprets multi-task prediction as a set of novel-view synthesis tasks for multiple scene properties, including RGB.
 
 Also I need to mention that many MTL approaches utilize not just one category of methods listed above but a combination instead. 
 
