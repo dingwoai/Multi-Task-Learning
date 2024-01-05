@@ -140,6 +140,7 @@ And it's updating...
 - [ICCV 2023] Video Task Decathlon: Unifying Image and Video Tasks in Autonomous Driving. [paper](https://arxiv.org/abs/2309.04422)
   - VTDNet groups similar tasks and employs task interaction stages to exchange information within and between task groups
   - a Curriculum training, Pseudo-labeling, and Fine-tuning (CPF) scheme
+- [arXiv 2023] Rethinking of Feature Interaction for Multi-task Learning on Dense Prediction. [paper](https://github.com/huangdiudiu/EQV)
 
 <a name='nas'></a>
 
