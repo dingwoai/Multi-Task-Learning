@@ -170,6 +170,7 @@ And it's updating...
   - Investigate the task gradients w.r.t. each shared network layer, select the layers with high conflict scores, and set them task-specific. 
 - [arXiv 2023] DynaShare: Task and Instance Conditioned Parameter Sharing for Multi-Task Learning. [paper](https://arxiv.org/abs/2305.17305)
 - [ICCV 2023] Efficient Controllable Multi-Task Architectures. [paper](https://arxiv.org/abs/2308.11744)
+- [arXiv 2024] Merging Multi-Task Models via Weight-Ensembling Mixture of Experts. [paper](https://arxiv.org/abs/2402.00433). [code](https://anonymous.4open.science/r/weight-ensembling_MoE-67C9/)
 
 <a name="proba"></a>
 
