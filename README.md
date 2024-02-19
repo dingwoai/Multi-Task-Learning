@@ -195,6 +195,7 @@ And it's updating...
   - based on the idea and concepts in *Measuring and harnessing transference in multi-task learning*.
 - [arXiv 2022] Editing Models with Task Arithmetic. [paper](https://arxiv.org/abs/2212.04089)
 - [arXiv 2023] AdaMerging: Adaptive Model Merging for Multi-Task Learning. [paper](https://arxiv.org/abs/2310.02575)
+- [arXiv 2024] Representation Surgery for Multi-Task Model Merging. [paper](https://arxiv.org/abs/2402.02705)
 
 <a name="optim"></a>
 
