@@ -227,6 +227,8 @@ And it's updating...
 - [arXiv 2022] Universal Representations: A Unified Look at Multiple Task and Domain Learning. [paper](https://arxiv.org/abs/2204.02744), [Code](https://github.com/VICO-UoE/UniversalRepresentations)
   - Distill knowledge from single-task networks.
 - [arXiv 2023] Sample-Level Weighting for Multi-Task Learning with Auxiliary Tasks. [paper](https://arxiv.org/abs/2306.04519)
+- [arXiv 2024] CoTBal: Comprehensive Task Balancing for Multi-Task Visual Instruction Tuning. [paper](https://arxiv.org/abs/2403.04343)
+  - two key dimensions for task balancing: (1) Inter-Task Contribution, the phenomenon where learning one task potentially enhances the performance in other tasks, attributable to the overlapping knowledge domains, and (2) Intra-Task Difficulty, which refers to the learning difficulty within a single task.
 
 <a name="optimization"></a>
 
