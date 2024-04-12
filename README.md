@@ -298,6 +298,7 @@ And it's updating...
 - [ICCV 2023] Multi-task View Synthesis with Neural Radiance Fields. [paper](https://arxiv.org/abs/2309.17450). [project](https://zsh2000.github.io/mtvs.github.io/). [Code](https://github.com/zsh2000/MuvieNeRF)
   - we present a novel problem setting -- multi-task view synthesis (MTVS), which reinterprets multi-task prediction as a set of novel-view synthesis tasks for multiple scene properties, including RGB.
 - [arXiv 2024] Robust Analysis of Multi-Task Learning on a Complex Vision System. [paper](https://arxiv.org/abs/2402.03557)
+- [CVPR 2024] DiffusionMTL: Learning Multi-Task Denoising Diffusion Model from Partially Annotated Data. [paper](https://arxiv.org/abs/2403.15389). [Code](https://prismformore.github.io/diffusionmtl/)
 
 Also I need to mention that many MTL approaches utilize not just one category of methods listed above but a combination instead. 
 
