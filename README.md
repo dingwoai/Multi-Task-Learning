@@ -107,6 +107,7 @@ And it's updating...
 - [arXiv 2023] Prompt Guided Transformer for Multi-Task Dense Prediction. [paper](https://arxiv.org/abs/2307.15362)
 - [CVPR 2023] Mitigating Task Interference in Multi-Task Learning via Explicit Task Routing with Non-Learnable Primitives. [paper](https://arxiv.org/abs/2308.02066). [code](https://github.com/zhichao-lu/etr-nlp-mtl).
 - [ICCV 2023] Vision Transformer Adapters for Generalizable Multitask Learning. [paper](https://arxiv.org/abs/2308.12372)
+- [arXiv 2024] Giving each task what it needs -- leveraging structured sparsity for tailored multi-task learning. [paper](https://arxiv.org/abs/2406.03048)
 
 <a name="soft"></a>
 
@@ -276,6 +277,7 @@ And it's updating...
 - [arXiv 2023] A Scale-Invariant Task Balancing Approach for Multi-Task Learning. [paper](https://arxiv.org/abs/2308.12029)
 - [MICCAI 2023] Multi-Task Cooperative Learning via Searching for Flat Minima. [paper](https://arxiv.org/abs/2309.12090)
 - [arXiv 2023] Challenging Common Assumptions in Multi-task Learning. [paper](https://arxiv.org/abs/2311.04698)
+- [arXiv 2024] Quantifying Task Priority for Multi-Task Optimization. [paper](https://arxiv.org/abs/2406.02996)
 
 <a name='novel'></a>
 
