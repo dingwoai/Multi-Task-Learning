@@ -364,6 +364,7 @@ Commonly used in computer vision:
 - [arXiv 2023] LiDAR-BEVMTN: Real-Time LiDAR Bird's-Eye View Multi-Task Perception Network for Autonomous Driving. [paper](https://arxiv.org/abs/2307.08850).
 - [RA-L 2023] Multi-Modal Multi-Task (3MT) Road Segmentation. [paper](https://arxiv.org/abs/2308.11983). [code](https://github.com/ErkanMilli/3MT-RoadSeg).
 - [CVPR-W] LeTFuser: Light-weight End-to-end Transformer-Based Sensor Fusion for Autonomous Driving with Multi-Task Learning. [paper](https://arxiv.org/abs/2310.13135). [code](https://github.com/pagand/e2etransfuser/tree/cvpr-w)
+- [arXiv 2024] Human Insights Driven Latent Space for Different Driving Perspectives: A Unified Encoder for Efficient Multi-Task Inference. [paper](https://arxiv.org/abs/2409.10095). [project](https://hi-computervision.github.io/uni-encoder/)
 
 ##### Others
 
