@@ -142,6 +142,7 @@ And it's updating...
   - VTDNet groups similar tasks and employs task interaction stages to exchange information within and between task groups
   - a Curriculum training, Pseudo-labeling, and Fine-tuning (CPF) scheme
 - [arXiv 2023] Rethinking of Feature Interaction for Multi-task Learning on Dense Prediction. [paper](https://github.com/huangdiudiu/EQV)
+- [arXiv 2024] Swiss Army Knife: Synergizing Biases in Knowledge from Vision Foundation Models for Multi-Task Learning. [paper](https://arxiv.org/abs/2410.14633)
 
 <a name='nas'></a>
 
@@ -196,7 +197,8 @@ And it's updating...
   - based on the idea and concepts in *Measuring and harnessing transference in multi-task learning*.
 - [arXiv 2022] Editing Models with Task Arithmetic. [paper](https://arxiv.org/abs/2212.04089)
 - [arXiv 2023] AdaMerging: Adaptive Model Merging for Multi-Task Learning. [paper](https://arxiv.org/abs/2310.02575)
-- [arXiv 2024] Representation Surgery for Multi-Task Model Merging. [paper](https://arxiv.org/abs/2402.02705)
+- [ICML 2024] Representation Surgery for Multi-Task Model Merging. [paper](https://arxiv.org/abs/2402.02705)
+  [arXiv 2024] SurgeryV2: Bridging the Gap Between Model Merging and Multi-Task Learning with Deep Representation Surgery. [paper](https://arxiv.org/abs/2410.14389)
 
 <a name="optim"></a>
 
