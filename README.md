@@ -199,6 +199,7 @@ And it's updating...
 - [arXiv 2023] AdaMerging: Adaptive Model Merging for Multi-Task Learning. [paper](https://arxiv.org/abs/2310.02575)
 - [ICML 2024] Representation Surgery for Multi-Task Model Merging. [paper](https://arxiv.org/abs/2402.02705)
   [arXiv 2024] SurgeryV2: Bridging the Gap Between Model Merging and Multi-Task Learning with Deep Representation Surgery. [paper](https://arxiv.org/abs/2410.14389)
+- [arXiv 2024] Efficient and Effective Weight-Ensembling Mixture of Experts for Multi-Task Model Merging. [paper](https://arxiv.org/abs/2410.21804)
 
 <a name="optim"></a>
 
