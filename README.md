@@ -282,6 +282,7 @@ And it's updating...
 - [MICCAI 2023] Multi-Task Cooperative Learning via Searching for Flat Minima. [paper](https://arxiv.org/abs/2309.12090)
 - [arXiv 2023] Challenging Common Assumptions in Multi-task Learning. [paper](https://arxiv.org/abs/2311.04698)
 - [arXiv 2024] Quantifying Task Priority for Multi-Task Optimization. [paper](https://arxiv.org/abs/2406.02996)
+- [arXiv 2025] Injecting Imbalance Sensitivity for Multi-Task Learning. [paper](https://arxiv.org/abs/2503.08006)
 
 <a name='novel'></a>
 
